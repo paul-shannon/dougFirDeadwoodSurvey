@@ -1,0 +1,253 @@
+df.009:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.554958
+   long: 122.250409
+   dbh (inches): 31
+   height (feet): 20
+   failureMode: laminated root rot
+   branches(none, small, large): none
+   groundContact:  1.0
+   bark: .10
+   exposedWood:
+     texture (intact, some soft, soft & powdery) : soft and powdery
+     structure (normal, blocky, strandy, spongy): spongy
+     color ([light|middle|dark] [brown|red-brown]): dark red-brown
+   epiphytes: 
+     moss (% coverage): .10
+     broadLeafForbs (% coverage):
+     ferns (count):
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry:
+          evergreenHuckleberry:
+
+df.010:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555185
+   long: 122.2505332
+   dbh (inches): 62
+   height (feet): 8
+   failureMode: brown-cubical rot
+   branches(none, small, large): none
+   groundContact:  1.0
+   bark: .3
+   exposedWood:
+     texture (intact, some soft, soft & powdery) : soft
+     structure (normal, blocky, strandy, spongy): spongy
+     color ([light|middle|dark] [brown|red-brown]): middle red-brown
+   epiphytes: 
+     moss (% coverage): .05
+     broadLeafForbs (% coverage): .1
+     ferns (count): 1
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 1
+          hemlock: 1
+          redHuckleberry: 4
+          evergreenHuckleberry:
+
+df.011:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:   47.555232
+   long: 122.250506
+   dbh (inches): 25
+   height (feet): 2
+   overallDescription:  no rot?
+   failureMode: windthrow?
+   branches(none, small, large): none
+   groundContact:  1.0
+   bark: .70
+   exposedWood:
+     texture (intact, some soft, soft & powdery) : soft & powdery
+     structure (normal, blocky, strandy, spongy): spongy
+     color ([light|middle|dark] [brown|red-brown]): light red-brown
+   epiphytes: 
+     moss (% coverage): .85
+     broadLeafForbs (% coverage): .1
+     ferns (count): 2
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 2
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 1
+          hemlock: 1
+          redHuckleberry: 4
+          evergreenHuckleberry:
+
+df.012:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555292
+   long: 122.250287
+   dbh (inches): 46
+   height (feet): 11
+   failureMode: armillaria
+   branches(none, small, large): none
+   groundContact:  1.0
+   bark: .80
+   exposedWood:
+     texture (intact, some soft, soft & powdery): soft
+     structure (normal, blocky, strandy, spongy): spongy
+     color ([light|middle|dark] [brown|redBrown]): light brown
+   epiphytes: 
+     moss (% coverage): .40
+     broadLeafForbs (% coverage): .05
+     ferns (count): 2
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry:
+          evergreenHuckleberry:
+
+df.013:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555663
+   long: 122.2503771
+   dbh (inches): 25
+   height (feet): 0
+   failureMode: uproot
+   branches:
+      small (<2"):
+      large (>= 2"): 2
+   groundContact:  .10
+   bark: .95
+   exposedWood:
+     texture (hard, some soft, soft & powdery): hard
+     structure (normal, blocky, strandy, spongy): normal
+     color ([light|middle|dark] [brown|redBrown]): light brown
+   epiphytes: 
+     moss (% coverage): .50
+     broadLeafForbs (% coverage): 
+     ferns (count): 
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry:
+          evergreenHuckleberry:
+
+
+df.014:
+   date (yyyy-mm-dd): 2022-07-19
+   dbh (inches): 19
+   lat:  47.555345
+   long: 122.2501940
+   height (feet): 0
+   failureMode: uproot
+   branches:
+      small (<2"): 4
+      large (>= 2"): 
+   groundContact:  .40
+   bark: .15
+   exposedWood:
+     texture (hard, some soft, soft & powdery): some soft
+     structure (normal, blocky, strandy, spongy): spongy
+     color ([light|middle|dark] [brown|redBrown]): light brown
+   epiphytes: 
+     moss (% coverage): .10
+     broadLeafForbs (% coverage): 
+     ferns (count): 
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry:
+          evergreenHuckleberry:
+
+
+df.015:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555848
+   long: 122.250872
+   dbh (inches): 26
+   height (feet): 0
+   failureMode:  root failure, brown cubical rot
+   branches:
+      small (<2"): 4
+      large (>= 2"): 
+   groundContact:  .60
+   bark: .10
+   exposedWood:
+     texture (hard, some soft, soft & powdery): some soft
+     structure (normal, blocky, strandy, spongy): blocky, spongy
+     color ([light|middle|dark] [brown|red-brown]): dark red-brown
+   epiphytes: 
+     moss (% coverage): .50
+     broadLeafForbs (% coverage): 
+     ferns (count): 
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry:
+          evergreenHuckleberry:
+
+df.016:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.556812
+   long: 222.251826
+   dbh (inches): 45
+   height (feet): 0
+   dbh: 4
+   failureMode: windfall uproot
+   branches:
+      small (<2"):      
+      large (>= 2"): 
+   groundContact:  1.0
+   bark: 1.0
+   exposedWood:
+     texture (hard, some soft, soft & powdery): hard
+     structure (normal, blocky, strandy, spongy): normal
+     color ([light|middle|dark] [brown|red-brown]): light brown
+   epiphytes: 
+     moss (% coverage): .50
+     broadLeafForbs (% coverage): 
+     ferns (count): 
+     woodyPlants:
+       seedlings (count < 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry: 
+          evergreenHuckleberry:
+       saplings (count >= 1"):
+          cedar: 
+          hemlock: 
+          redHuckleberry:
+          evergreenHuckleberry:
+
+

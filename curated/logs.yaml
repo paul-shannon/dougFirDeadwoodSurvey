@@ -1,0 +1,583 @@
+df.009:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.554958
+   long: 122.250409
+   dbh (inches): 31
+   height (feet): 20
+   failureMode: laminated root rot
+   notes:
+   branches.small (<2"):
+   branches.large (>=2"):
+   groundContact:  1.0
+   #cross.section.shape (at 10 ft from failure: round|oval|depleted): round?
+   bark: .10
+   exposeWood.texture (intact, some soft, soft & powdery) : soft and powdery
+   exposedWood.structure (normal, blocky, strandy, spongy): spongy
+   exposeWood.color ([light|middle|dark] [brown|red-brown]): dark red-brown
+   moss (% coverage): .10
+   broadLeafForbs (% coverage):
+   ferns (count):
+   woody.seedlings (count < 1"):
+       cedar: 
+       hemlock: 
+       redHuckleberry: 
+       evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+       cedar: 
+       hemlock: 
+       redHuckleberry:
+       evergreenHuckleberry:
+
+df.010:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555185
+   long: 122.2505332
+   dbh (inches): 62
+   height (feet): 8
+   failureMode: brown-cubical rot
+   notes:
+   branches.small (<2"):
+   branches.large (>=2"):
+   groundContact:  1.0
+   #cross.section.shape (at 10’ from failure: round|oval|depleted):
+   bark: .3
+   exposedWood.texture (intact, some soft, soft & powdery) : soft
+   exposedWood.structure (normal, blocky, strandy, spongy): spongy
+   exposedWood.color ([light|middle|dark] [brown|red-brown]): middle red-brown
+   moss (% coverage): .05
+   broadLeafForbs (% coverage): .1
+   ferns (count): 1
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 1
+      hemlock: 1
+      redHuckleberry: 4
+      evergreenHuckleberry:
+
+df.011:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:   47.555232
+   long: 122.250506
+   dbh (inches): 25
+   height (feet): 2
+   failureMode: windthrow?
+   notes: no rot?
+   branches.small (<2"):
+   branches.large (>=2"):
+   groundContact:  1.0
+   cross.section.shape (round|oval|depleted):
+   bark: .70
+   exposedWood.texture (intact, some soft, soft & powdery) : soft & powdery
+   exposedWood.structure (normal, blocky, strandy, spongy): spongy
+   exposedWood.color ([light|middle|dark] [brown|red-brown]): light red-brown
+   moss (% coverage): .85
+   broadLeafForbs (% coverage): .1
+   ferns (count): 2
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 2
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 1
+      hemlock: 1
+      redHuckleberry: 4
+      evergreenHuckleberry:
+
+df.012:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555292
+   long: 122.250287
+   dbh (inches): 46
+   height (feet): 11
+   failureMode: armillaria
+   notes:
+   branches.small (<2"):
+   branches.large (>2"):
+   groundContact:  1.0
+   cross.section.shape (at 10’ from failure, round|oval|depleted):
+   bark: .80
+   exposedWood.texture (intact, some soft, soft & powdery): soft
+   exposedWood.structure (normal, blocky, strandy, spongy): spongy
+   exposedWood.color ([light|middle|dark] [brown|redBrown]): light brown
+   moss (% coverage): .40
+   broadLeafForbs (% coverage): .05
+   ferns (count): 2
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+df.013:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555663
+   long: 122.2503771
+   dbh (inches): 25
+   height (feet): 0
+   failureMode: uproot
+   notes:
+   branches.small (<2"):
+   branches.large (>=2"):
+   groundContact:  .10
+   cross.section.shape (at 10’ from failure, round|oval|depleted):
+   bark: .95
+   exposedWood.texture (hard, some soft, soft & powdery): hard
+   exposedWood.structure (normal, blocky, strandy, spongy): normal
+   exposedWood.color ([light|middle|dark] [brown|redBrown]): light brown
+   moss (% coverage): .50
+   broadLeafForbs (% coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+
+df.014:
+   date (yyyy-mm-dd): 2022-07-19
+   dbh (inches): 19
+   lat:  47.555345
+   long: 122.2501940
+   height (feet): 0
+   failureMode: uproot
+   notes:
+   branches.small (<2"): 4
+   branches.large (>=2"):
+   groundContact:  .40
+   cross.section.shape (at 10’ from failure, round|oval|depleted):
+   bark: .15
+   exposedWood.texture (hard, some soft, soft & powdery): some soft
+   exposedWood.structure (normal, blocky, strandy, spongy): spongy
+   exposedWood.color ([light|middle|dark] [brown|redBrown]): light brown
+   moss (% coverage): .10
+   broadLeafForbs (% coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+
+df.015:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.555848
+   long: 122.250872
+   dbh (inches): 26
+   height (feet): 0
+   failureMode:  root failure, brown cubical rot
+   notes:
+   branches.small (<2"): 4
+   branches.large (>=2"):
+   groundContact:  .60
+   cross.section.shape (at 10’ from failure, round|oval|depleted):
+   bark: .10
+   exposedWood:
+   exposedWood.texture (hard, some soft, soft & powdery): some soft
+   exposedWood.structure (normal, blocky, strandy, spongy): blocky, spongy
+   exposedWood.color ([light|middle|dark] [brown|red-brown]): dark red-brown
+   moss (% coverage): .50
+   broadLeafForbs (% coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+df.016:
+   date (yyyy-mm-dd): 2022-07-19
+   lat:  47.556812
+   long: 222.251826
+   dbh (inches): 45
+   height (feet): 0
+   dbh: 4
+   failureMode: windfall uproot
+   notes:
+   branches.small (<2"):
+   branches.large (>2"):
+   groundContact:  1.0
+   cross.section.shape (at 10’ from failure, round|oval|depleted):
+   bark: 1.0
+   exposedWood.texture (hard, some soft, soft & powdery): hard
+   exposedWood.structure (normal, blocky, strandy, spongy): normal
+   exposedWood.color ([light|middle|dark] [brown|red-brown]): light brown
+   moss (% coverage): .50
+   broadLeafForbs (% coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+
+df.017:
+   date: 2022-07-25
+   lat: 47.555057
+   long: 122.252316
+   dbh (inches): 48
+   height (feet): 4ft/18ft
+   failureMode (phaeolus, armillaria, clean uproot): armillaria
+   notes: salmonberry(1), blackberry(10), salal(6), 
+   branches.small (<2"):
+   branches.large (>2"): 15
+   groundContact (decimal fraction): 0.50
+   cross.section (10’ from failure, round|oval|depleted): round
+   bark (decimal fraction): 0.95
+   wood.texture (hard, some soft, soft & powdery): some soft 
+   wood.structure (normal, blocky, strandy, spongy): stingy
+   wood.color ([light|middle|dark] [brown|red-brown]): middle brown-red
+   moss (decimal fractional coverage): 0.60
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): 1 sword fern
+   woody.seedlings (count < 1"):
+      cedar: 1 
+      hemlock: 
+      redHuckleberry: 3 
+      evergreenHuckleberry:
+      maple: 4
+      doug fir: 1
+      black oak: 1 
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+df.018:
+   date (2022-07-26):
+   lat: 47.556937 N 
+   long: 122.250766 W
+   dbh (inches): 52 in
+   height (feet): Snapped at 17ft
+   failureMode (phaeolus, armillaria, clean uproot): laminated root rot w/ opportunistic schweinitzii? 
+   notes: gail johnson reports this tree fell in  december 2018, e saw evidence of  Phaeolus schweinitzii,
+       and laminar root rot, as well as a possible white rot 
+   branches.small (<2"): 1
+   branches.large (>2"): 11
+   groundContact (decimal fraction): supported but with shatter from fall 
+   cross.section (10’ from failure, round|oval|depleted): round
+   bark (decimal fraction): intact
+   wood.texture (hard, some soft, soft & powdery): 
+   wood.structure (normal, blocky, strandy, spongy): 
+   wood.color ([light|middle|dark] [brown|red-brown]): 
+   moss (decimal fractional coverage): none
+   broadLeafForbs (decimal fractional coverage): 80
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+      native blackberry: 0.80
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+df.019:
+   date (2022-07-26):
+   notes:  the hollow log tree
+   lat: 47.557247
+   long: 122.251254
+   dbh (inches): 52i
+   height (feet): 
+   failureMode (phaeolus, armillaria, clean uproot): laminated root rot w/cubical rot
+   branches.small (<2"):
+   branches.large (>2"):
+   groundContact (decimal fraction): 0.3
+   cross.section (10’ from failure, round|oval|depleted):  depleted
+   bark (decimal fraction): 0.70
+   wood.texture (hard, some soft, soft & powdery): soft/powdery
+   wood.structure (normal, blocky, strandy, spongy): spongy
+   wood.color ([light|middle|dark] [brown|red-brown]): 
+   moss (decimal fractional coverage): 80%
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): licorice  
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 1 
+      evergreenHuckleberry:
+      Salmonberry: 2
+      Native blackberry: 1 
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+      bigleaf maple: 1
+
+df.020:
+   date: 2022-07-26
+   notes:  the leila tree
+   lat: 47.554582 N 
+   long: 122.250449 W
+   directionOfFall: 49 NE
+   dbh (inches): 61 in 
+   height (feet): roots
+   failureMode (phaeolus, armillaria, clean uproot): clean uproot 
+   branches.small (<2"): 1
+   branches.large (>2"): 10
+   groundContact (decimal fraction): complete 
+   cross.section (10’ from failure, round|oval|depleted): round/some oval toward top
+   bark (decimal fraction): 40%
+   wood.texture (hard, some soft, soft & powdery): some soft
+   wood.structure (normal, blocky, strandy, spongy): slightly spongey
+   wood.color ([light|middle|dark] [brown|red-brown]): 
+   moss (decimal fractional coverage): 0.60
+   broadLeafForbs (decimal fractional coverage): 
+        Ferns: 10
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+                blackberry: 2
+                Salal: 15
+df.021:
+   date: 2022-07-26
+   notes: right next to the leila tree, little roots
+   lat:  47.554563 N
+   long: 122.25049 W
+   dbh (inches):  todo
+   height (feet): roots
+   failureMode (phaeolus, armillaria, clean uproot): base red cubical rot
+   branches.small (<2"): 2
+   branches.large (>2"): 15
+   groundContact (decimal fraction): complete 
+   cross.section (10’ from failure, round|oval|depleted):
+   bark (decimal fraction): 0.60
+   wood.texture (hard, some soft, soft & powdery): soft
+   wood.structure (normal, blocky, strandy, spongy): spongy
+   wood.color ([light|middle|dark] [brown|red-brown]): mid-brown 
+   moss (decimal fractional coverage): 0.80
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 1
+      salal: 8
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+df.022:
+   date (2022-07-27):
+   notes:  assessed with tim billo's oversight and suggestions
+   lat: 47.554122 N 
+   long: 122.250352 W 
+   dbh (inches): 39 
+   height (feet): 
+   failureMode (phaeolus, armillaria, clean uproot): wind throw
+   directionOfFall: 49 N
+   altitude: 193
+   branches.small (<2"):
+   branches.large (>2"):
+   groundContact (decimal fraction):  
+   cross.section (10’ from failure, round|oval|depleted):
+   bark (decimal fraction): 
+   wood.texture (hard, some soft, soft & powdery): 
+   wood.structure (normal, blocky, strandy, spongy): 
+   wood.color ([light|middle|dark] [brown|red-brown]): 
+   moss (decimal fractional coverage): 
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): 5
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+      salal: 6
+      blackberry: 1
+      maple: 5 
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+
+df.023:
+   date: 2022-07-27
+   notes:  fell across trail, thin tall barber chair back
+   lat: 47.558460 N 
+   long: 122.251971 W
+   directionOfFall: 155 SE
+   dbh (inches): 20ft snap 
+   height (feet): 27
+   failureMode (phaeolus, armillaria, clean uproot): armillaria 
+   branches.small (<2"):
+   branches.large (>2"): 10
+   groundContact (decimal fraction): 80% contact 20% supported  
+   cross.section (10’ from failure, round|oval|depleted):
+   bark (decimal fraction): intact 
+   wood.texture (hard, some soft, soft & powdery): hard
+   wood.structure (normal, blocky, strandy, spongy): normal
+   wood.color ([light|middle|dark] [brown|red-brown]): light brown/red-brown at base 
+   moss (decimal fractional coverage): 0.80
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      trailing blackberry: 1
+      evergreenHuckleberry:
+
+df.024:
+   date (2022-07-27):
+   notes:   north of bench, other side of trail, big maple & hemlock growing out of root ball
+   lat:  47.558787
+   long: 122.250994
+   dbh (inches): 41
+   height (feet):  0
+   failureMode (phaeolus, armillaria, clean uproot): clean uproot
+   branches.small (<2"):
+   branches.large (>2"): 3
+   groundContact (decimal fraction):  1.0
+   cross.section (10’ from failure, round|oval|depleted): round
+   bark (decimal fraction): intact  0.50
+   wood.texture (hard, some soft, soft & powdery): soft 
+   wood.structure (normal, blocky, strandy, spongy):  strandy
+   wood.color ([light|middle|dark] [brown|red-brown]): light brown
+   moss (decimal fractional coverage): 0.75
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): 15
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 1
+      Maple: 1 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:
+      salal: 5
+      
+
+df.025:
+   date (yyyy-mm-dd): 2022-07-27
+   lat:  47.558855
+   long: 122.250952
+   notes: near woodpecker sculpture tree, broken off very near base
+   dbh (inches): 28
+   height (feet):  2
+   failureMode (phaeolus, armillaria, clean uproot): phaeolus
+   branches.small (<2"): 0
+   branches.large (>2"): 0
+   groundContact (decimal fraction):  1.0
+   cross.section (10’ from failure, round|oval|depleted): round
+   bark (decimal fraction): 0.45
+   wood.texture (hard, some soft, soft & powdery): 
+   wood.structure (normal, blocky, strandy, spongy): 
+   wood.color ([light|middle|dark] [brown|red-brown]): 
+   moss (decimal fractional coverage): .45
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 1
+      evergreenHuckleberry: 2
+      salal: 12
+      sword ferns:
+
+df.026:  
+   date (yyyy-mm-dd): 2022-07-28
+   lat:  47.559058 N
+   long: 122.250842 W
+   notes: Himalayan blackberry needs removing
+   dbh (inches): 31
+   height of break (feet):  uprooted
+   failureMode (phaeolus, armillaria, clean uproot): good evidence of armillaria (black strings) with wind uproot
+   directionOfFall: 350 N
+   branches.small (<2"): 
+   branches.large (>2"): 3
+   groundContact (decimal fraction):  70%
+   cross.section (10’ from failure, round|oval|depleted): round
+   bark (decimal fraction): 20%
+   exposed.wood (decimal fraction): 80% 
+   wood.moisture.content: 
+   wood.texture (hard, some soft, soft & powdery): soft and powdery 
+   wood.structure (normal, blocky, strandy, spongy): strandy
+   wood.color ([light|middle|dark] [brown|red-brown]): light brown
+   moss (0-5): 3
+   epiphytes (0-5): 4 
+   epiphyte.notes:  3 hemlocks, evergreen huckleberry, sword ferns, bracken ferns
+   
+df.027:
+   date (yyyy-mm-dd): 2022-07-28
+   lat:  47.559130
+   long: 122.250886
+   notes: 3 mature red huckleberries, ferns.  large cut stump, might be broader
+       than butt of log.  odd that tree was cut, but log not removed.
+   dbh (inches): 33
+   height of break (feet):  
+   failureMode (phaeolus, armillaria, clean uproot): phaeolus and laminated?
+   directionOfFall: 116 SE
+   branches.small (<2"): 
+   branches.large (>2"): 
+   groundContact (decimal fraction): complete 
+   cross.section (10’ from failure, round|oval|depleted): oval
+   bark (decimal fraction): 0.20%
+   exposed.wood (decimal fraction): 0.80
+   wood.moisture.content: 
+   wood.texture (hard, some soft, soft & powdery): soft/powdery
+   wood.structure (normal, blocky, strandy, spongy): spongy
+   wood.color ([light|middle|dark] [brown|red-brown]): dark brown
+   moss (0-5): 10%
+   epiphytes (0-5): 5

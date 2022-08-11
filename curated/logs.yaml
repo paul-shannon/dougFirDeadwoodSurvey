@@ -1,20 +1,27 @@
 df.009:
-   date (yyyy-mm-dd): 2022-07-19
-   lat:  47.554958
-   long: 122.250409
-   dbh (inches): 31
-   height (feet): 20
-   failureMode: laminated root rot
+   date: 2022-07-19      # yyyy-mm-dd
+   lat:  47.554958       # just number
+   long: -122.250409     # just number
+   description:
+   dbh (inches):   31    # inches
+   height: 20            # feet
+   causeOfDeath: laminated root rot  # phaeolus, phellinus, armillaria, 
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes:
-   branches.small (<2"):
-   branches.large (>=2"):
-   groundContact:  1.0
-   #cross.section.shape (at 10 ft from failure: round|oval|depleted): round?
+   branches.small:             # count <  2"
+   branches.large:             # count >= 2"
+   groundContact:  1.0         # 0.0 to 1.0 f
+   log.shape.base: round       # bottom of log:  round, oval, depleted
+   log.shape.mid:   round      # at 10 ft from failure:  round, oval, depleted
+   log.shape.top:  round       # at furthest part of log
    bark: .10
    exposeWood.texture (intact, some soft, soft & powdery) : soft and powdery
    exposedWood.structure (normal, blocky, strandy, spongy): spongy
    exposeWood.color ([light|middle|dark] [brown|red-brown]): dark red-brown
-   moss (% coverage): .10
+   moss: 0.1
+   epiphytes: 0               # 0-10
    broadLeafForbs (% coverage):
    ferns (count):
    woody.seedlings (count < 1"):
@@ -29,22 +36,27 @@ df.009:
        evergreenHuckleberry:
 
 df.010:
-   date (yyyy-mm-dd): 2022-07-19
+   date: 2022-07-19
    lat:  47.555185
-   long: 122.2505332
+   long: -122.2505332
+   description:
    dbh (inches): 62
    height (feet): 8
-   failureMode: brown-cubical rot
+   causeOfDeath: brown-cubical rot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes:
    branches.small (<2"):
    branches.large (>=2"):
    groundContact:  1.0
    #cross.section.shape (at 10’ from failure: round|oval|depleted):
-   bark: .3
+   bark: 0.3
    exposedWood.texture (intact, some soft, soft & powdery) : soft
    exposedWood.structure (normal, blocky, strandy, spongy): spongy
    exposedWood.color ([light|middle|dark] [brown|red-brown]): middle red-brown
-   moss (% coverage): .05
+   moss: .05    # (% coverage)
+   epiphytes: 4               # 0-10
    broadLeafForbs (% coverage): .1
    ferns (count): 1
    woody.seedlings (count < 1"):
@@ -59,12 +71,16 @@ df.010:
       evergreenHuckleberry:
 
 df.011:
-   date (yyyy-mm-dd): 2022-07-19
+   date: 2022-07-19
    lat:   47.555232
-   long: 122.250506
+   long: -122.250506
+   description:
    dbh (inches): 25
    height (feet): 2
-   failureMode: windthrow?
+   causeOfDeath: windthrow?
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes: no rot?
    branches.small (<2"):
    branches.large (>=2"):
@@ -74,7 +90,8 @@ df.011:
    exposedWood.texture (intact, some soft, soft & powdery) : soft & powdery
    exposedWood.structure (normal, blocky, strandy, spongy): spongy
    exposedWood.color ([light|middle|dark] [brown|red-brown]): light red-brown
-   moss (% coverage): .85
+   moss: .85    # (% coverage)
+   epiphytes: 7               # 0-10
    broadLeafForbs (% coverage): .1
    ferns (count): 2
    woody.seedlings (count < 1"):
@@ -89,12 +106,16 @@ df.011:
       evergreenHuckleberry:
 
 df.012:
-   date (yyyy-mm-dd): 2022-07-19
+   date: 2022-07-19
    lat:  47.555292
-   long: 122.250287
+   long: -122.250287
+   description:
    dbh (inches): 46
    height (feet): 11
-   failureMode: armillaria
+   causeOfDeath: armillaria
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes:
    branches.small (<2"):
    branches.large (>2"):
@@ -104,7 +125,8 @@ df.012:
    exposedWood.texture (intact, some soft, soft & powdery): soft
    exposedWood.structure (normal, blocky, strandy, spongy): spongy
    exposedWood.color ([light|middle|dark] [brown|redBrown]): light brown
-   moss (% coverage): .40
+   moss: .40    # (% coverage)
+   epiphytes: 2               # 0-10
    broadLeafForbs (% coverage): .05
    ferns (count): 2
    woody.seedlings (count < 1"):
@@ -119,12 +141,16 @@ df.012:
       evergreenHuckleberry:
 
 df.013:
-   date (yyyy-mm-dd): 2022-07-19
+   date: 2022-07-19
    lat:  47.555663
-   long: 122.2503771
+   long: -122.2503771
+   description:
    dbh (inches): 25
    height (feet): 0
-   failureMode: uproot
+   causeOfDeath: uproot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes:
    branches.small (<2"):
    branches.large (>=2"):
@@ -134,7 +160,8 @@ df.013:
    exposedWood.texture (hard, some soft, soft & powdery): hard
    exposedWood.structure (normal, blocky, strandy, spongy): normal
    exposedWood.color ([light|middle|dark] [brown|redBrown]): light brown
-   moss (% coverage): .50
+   moss: .50    # (% coverage)
+   epiphytes: 0               # 0-10
    broadLeafForbs (% coverage): 
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -150,12 +177,16 @@ df.013:
 
 
 df.014:
-   date (yyyy-mm-dd): 2022-07-19
-   dbh (inches): 19
+   date: 2022-07-19
    lat:  47.555345
-   long: 122.2501940
+   long: -122.2501940
+   description:
+   dbh (inches): 19
    height (feet): 0
-   failureMode: uproot
+   causeOfDeath: uproot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes:
    branches.small (<2"): 4
    branches.large (>=2"):
@@ -165,7 +196,8 @@ df.014:
    exposedWood.texture (hard, some soft, soft & powdery): some soft
    exposedWood.structure (normal, blocky, strandy, spongy): spongy
    exposedWood.color ([light|middle|dark] [brown|redBrown]): light brown
-   moss (% coverage): .10
+   moss: .10    # (% coverage)
+   epiphytes: 0               # 0-10
    broadLeafForbs (% coverage): 
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -181,12 +213,16 @@ df.014:
 
 
 df.015:
-   date (yyyy-mm-dd): 2022-07-19
+   date: 2022-07-19
    lat:  47.555848
-   long: 122.250872
+   long: -122.250872
+   description:
    dbh (inches): 26
    height (feet): 0
-   failureMode:  root failure, brown cubical rot
+   causeOfDeath:  root failure, brown cubical rot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes:
    branches.small (<2"): 4
    branches.large (>=2"):
@@ -197,7 +233,8 @@ df.015:
    exposedWood.texture (hard, some soft, soft & powdery): some soft
    exposedWood.structure (normal, blocky, strandy, spongy): blocky, spongy
    exposedWood.color ([light|middle|dark] [brown|red-brown]): dark red-brown
-   moss (% coverage): .50
+   moss: .50    # (% coverage)
+   epiphytes: 0               # 0-10
    broadLeafForbs (% coverage): 
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -212,13 +249,16 @@ df.015:
       evergreenHuckleberry:
 
 df.016:
-   date (yyyy-mm-dd): 2022-07-19
+   date: 2022-07-19
    lat:  47.556812
-   long: 222.251826
+   long: -122.251826
+   description:  
    dbh (inches): 45
    height (feet): 0
-   dbh: 4
-   failureMode: windfall uproot
+   causeOfDeath: windfall uproot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes:
    branches.small (<2"):
    branches.large (>2"):
@@ -228,7 +268,8 @@ df.016:
    exposedWood.texture (hard, some soft, soft & powdery): hard
    exposedWood.structure (normal, blocky, strandy, spongy): normal
    exposedWood.color ([light|middle|dark] [brown|red-brown]): light brown
-   moss (% coverage): .50
+   moss: .50    # (% coverage)
+   epiphytes: 0               # 0-10
    broadLeafForbs (% coverage): 
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -246,20 +287,25 @@ df.016:
 df.017:
    date: 2022-07-25
    lat: 47.555057
-   long: 122.252316
+   long: -122.252316
+   description:  
    dbh (inches): 48
    height (feet): 4ft/18ft
-   failureMode (phaeolus, armillaria, clean uproot): armillaria
+   causeOfDeath (phaeolus, armillaria, clean uproot): armillaria
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    notes: salmonberry(1), blackberry(10), salal(6), 
    branches.small (<2"):
    branches.large (>2"): 15
    groundContact (decimal fraction): 0.50
    cross.section (10’ from failure, round|oval|depleted): round
-   bark (decimal fraction): 0.95
+   bark: 0.95
    wood.texture (hard, some soft, soft & powdery): some soft 
    wood.structure (normal, blocky, strandy, spongy): stingy
    wood.color ([light|middle|dark] [brown|red-brown]): middle brown-red
-   moss (decimal fractional coverage): 0.60
+   moss: 0.60    #  (decimal fractional coverage)
+   epiphytes: 7               # 0-10
    broadLeafForbs (decimal fractional coverage): 
    ferns (count): 1 sword fern
    woody.seedlings (count < 1"):
@@ -278,22 +324,27 @@ df.017:
 
 df.018:
    date (2022-07-26):
-   lat: 47.556937 N 
-   long: 122.250766 W
-   dbh (inches): 52 in
+   lat: 47.556937
+   long: -122.250766
+   description:  
+   dbh (inches): 52
    height (feet): Snapped at 17ft
-   failureMode (phaeolus, armillaria, clean uproot): laminated root rot w/ opportunistic schweinitzii? 
+   causeOfDeath (phaeolus, armillaria, clean uproot): laminated root rot w/ opportunistic schweinitzii? 
+   yearOfDeath: 2018               #
+   yearOfDeath.evidence:           # photo and report from Gail Johnson
+   yearOfDeath.notes:              # 
    notes: gail johnson reports this tree fell in  december 2018, e saw evidence of  Phaeolus schweinitzii,
        and laminar root rot, as well as a possible white rot 
    branches.small (<2"): 1
    branches.large (>2"): 11
    groundContact (decimal fraction): supported but with shatter from fall 
    cross.section (10’ from failure, round|oval|depleted): round
-   bark (decimal fraction): intact
+   bark: 1.0
    wood.texture (hard, some soft, soft & powdery): 
    wood.structure (normal, blocky, strandy, spongy): 
    wood.color ([light|middle|dark] [brown|red-brown]): 
-   moss (decimal fractional coverage): none
+   moss: 0   #  (decimal fractional coverage)
+   epiphytes: 0               # 0-10
    broadLeafForbs (decimal fractional coverage): 80
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -312,19 +363,24 @@ df.019:
    date (2022-07-26):
    notes:  the hollow log tree
    lat: 47.557247
-   long: 122.251254
-   dbh (inches): 52i
+   long: -122.251254
+   description:  
+   dbh (inches): 52
    height (feet): 
-   failureMode (phaeolus, armillaria, clean uproot): laminated root rot w/cubical rot
+   causeOfDeath (phaeolus, armillaria, clean uproot): laminated root rot w/cubical rot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    branches.small (<2"):
    branches.large (>2"):
    groundContact (decimal fraction): 0.3
    cross.section (10’ from failure, round|oval|depleted):  depleted
-   bark (decimal fraction): 0.70
+   bark: 0.70
    wood.texture (hard, some soft, soft & powdery): soft/powdery
    wood.structure (normal, blocky, strandy, spongy): spongy
    wood.color ([light|middle|dark] [brown|red-brown]): 
-   moss (decimal fractional coverage): 80%
+   moss: 0.80  #  (decimal fractional coverage)
+   epiphytes: 4               # 0-10
    broadLeafForbs (decimal fractional coverage): 
    ferns (count): licorice  
    woody.seedlings (count < 1"):
@@ -344,21 +400,26 @@ df.019:
 df.020:
    date: 2022-07-26
    notes:  the leila tree
-   lat: 47.554582 N 
-   long: 122.250449 W
+   lat: 47.554582
+   long: -122.250449
    directionOfFall: 49 NE
-   dbh (inches): 61 in 
+   description:  
+   dbh (inches): 61
    height (feet): roots
-   failureMode (phaeolus, armillaria, clean uproot): clean uproot 
+   causeOfDeath (phaeolus, armillaria, clean uproot): clean uproot 
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    branches.small (<2"): 1
    branches.large (>2"): 10
    groundContact (decimal fraction): complete 
    cross.section (10’ from failure, round|oval|depleted): round/some oval toward top
-   bark (decimal fraction): 40%
+   bark: 0.40
    wood.texture (hard, some soft, soft & powdery): some soft
    wood.structure (normal, blocky, strandy, spongy): slightly spongey
    wood.color ([light|middle|dark] [brown|red-brown]): 
-   moss (decimal fractional coverage): 0.60
+   moss: 0.60  #  (decimal fractional coverage)
+   epiphytes: 8               # 0-10
    broadLeafForbs (decimal fractional coverage): 
         Ferns: 10
    woody.seedlings (count < 1"):
@@ -376,20 +437,25 @@ df.020:
 df.021:
    date: 2022-07-26
    notes: right next to the leila tree, little roots
-   lat:  47.554563 N
-   long: 122.25049 W
-   dbh (inches):  todo
+   lat:  47.554563
+   long: -122.25049
+   description:  
+   dbh (inches):  0
    height (feet): roots
-   failureMode (phaeolus, armillaria, clean uproot): base red cubical rot
+   causeOfDeath (phaeolus, armillaria, clean uproot): base red cubical rot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    branches.small (<2"): 2
    branches.large (>2"): 15
    groundContact (decimal fraction): complete 
    cross.section (10’ from failure, round|oval|depleted):
-   bark (decimal fraction): 0.60
+   bark: 0.60
    wood.texture (hard, some soft, soft & powdery): soft
    wood.structure (normal, blocky, strandy, spongy): spongy
    wood.color ([light|middle|dark] [brown|red-brown]): mid-brown 
-   moss (decimal fractional coverage): 0.80
+   moss: 0.80  # moss (decimal fractional coverage)
+   epiphytes: 6               # 0-10
    broadLeafForbs (decimal fractional coverage): 
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -407,22 +473,27 @@ df.021:
 df.022:
    date (2022-07-27):
    notes:  assessed with tim billo's oversight and suggestions
-   lat: 47.554122 N 
-   long: 122.250352 W 
+   lat: 47.554122
+   long: -122.250352
+   description:  
    dbh (inches): 39 
    height (feet): 
-   failureMode (phaeolus, armillaria, clean uproot): wind throw
+   causeOfDeath (phaeolus, armillaria, clean uproot): wind throw
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    directionOfFall: 49 N
    altitude: 193
    branches.small (<2"):
    branches.large (>2"):
    groundContact (decimal fraction):  
    cross.section (10’ from failure, round|oval|depleted):
-   bark (decimal fraction): 
+   bark: 0
    wood.texture (hard, some soft, soft & powdery): 
    wood.structure (normal, blocky, strandy, spongy): 
    wood.color ([light|middle|dark] [brown|red-brown]): 
-   moss (decimal fractional coverage): 
+   moss: 0          (decimal fractional coverage)
+   epiphytes: 9               # 0-10
    broadLeafForbs (decimal fractional coverage): 
    ferns (count): 5
    woody.seedlings (count < 1"):
@@ -441,22 +512,27 @@ df.022:
 
 df.023:
    date: 2022-07-27
-   notes:  fell across trail, thin tall barber chair back
-   lat: 47.558460 N 
-   long: 122.251971 W
+   notes:  fell across trail, thin tall barber chair back, need dbh
+   lat: 47.558460
+   long: -122.251971
    directionOfFall: 155 SE
-   dbh (inches): 20ft snap 
+   description: 
+   dbh (inches): 0
    height (feet): 27
-   failureMode (phaeolus, armillaria, clean uproot): armillaria 
+   causeOfDeath (phaeolus, armillaria, clean uproot): armillaria 
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    branches.small (<2"):
    branches.large (>2"): 10
    groundContact (decimal fraction): 80% contact 20% supported  
    cross.section (10’ from failure, round|oval|depleted):
-   bark (decimal fraction): intact 
+   bark: 1.0
    wood.texture (hard, some soft, soft & powdery): hard
    wood.structure (normal, blocky, strandy, spongy): normal
    wood.color ([light|middle|dark] [brown|red-brown]): light brown/red-brown at base 
-   moss (decimal fractional coverage): 0.80
+   moss: 0.80  #  (decimal fractional coverage)
+   epiphytes: 1               # 0-10
    broadLeafForbs (decimal fractional coverage): 
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -475,19 +551,24 @@ df.024:
    date (2022-07-27):
    notes:   north of bench, other side of trail, big maple & hemlock growing out of root ball
    lat:  47.558787
-   long: 122.250994
+   long: -122.250994
+   description: 
    dbh (inches): 41
    height (feet):  0
-   failureMode (phaeolus, armillaria, clean uproot): clean uproot
+   causeOfDeath (phaeolus, armillaria, clean uproot): clean uproot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    branches.small (<2"):
    branches.large (>2"): 3
    groundContact (decimal fraction):  1.0
    cross.section (10’ from failure, round|oval|depleted): round
-   bark (decimal fraction): intact  0.50
+   bark: 0.5
    wood.texture (hard, some soft, soft & powdery): soft 
    wood.structure (normal, blocky, strandy, spongy):  strandy
    wood.color ([light|middle|dark] [brown|red-brown]): light brown
-   moss (decimal fractional coverage): 0.75
+   moss: 0.75   #  (decimal fractional coverage)
+   epiphytes: 8               # 0-10
    broadLeafForbs (decimal fractional coverage): 
    ferns (count): 15
    woody.seedlings (count < 1"):
@@ -505,22 +586,27 @@ df.024:
       
 
 df.025:
-   date (yyyy-mm-dd): 2022-07-27
+   date: 2022-07-27
    lat:  47.558855
-   long: 122.250952
+   long: -122.250952
    notes: near woodpecker sculpture tree, broken off very near base
+   description: 
    dbh (inches): 28
    height (feet):  2
-   failureMode (phaeolus, armillaria, clean uproot): phaeolus
+   causeOfDeath (phaeolus, armillaria, clean uproot): phaeolus
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
    branches.small (<2"): 0
    branches.large (>2"): 0
    groundContact (decimal fraction):  1.0
    cross.section (10’ from failure, round|oval|depleted): round
-   bark (decimal fraction): 0.45
+   bark: 0.45
    wood.texture (hard, some soft, soft & powdery): 
    wood.structure (normal, blocky, strandy, spongy): 
    wood.color ([light|middle|dark] [brown|red-brown]): 
-   moss (decimal fractional coverage): .45
+   moss: .45   #  (decimal fractional coverage)
+   epiphytes: 8               # 0-10
    broadLeafForbs (decimal fractional coverage): 
    ferns (count): 
    woody.seedlings (count < 1"):
@@ -537,47 +623,154 @@ df.025:
       sword ferns:
 
 df.026:  
-   date (yyyy-mm-dd): 2022-07-28
-   lat:  47.559058 N
-   long: 122.250842 W
+   date: 2022-07-28
+   lat:  47.559058
+   long: -122.250842
    notes: Himalayan blackberry needs removing
+   description: 
    dbh (inches): 31
    height of break (feet):  uprooted
-   failureMode (phaeolus, armillaria, clean uproot): good evidence of armillaria (black strings) with wind uproot
-   directionOfFall: 350 N
+   causeOfDeath (phaeolus, armillaria, clean uproot): good evidence of armillaria (black strings) with wind uproot
+   yearOfDeath: NA                 #
+   yearOfDeath.evidence:           # reported, inferred, calculated
+   yearOfDeath.notes:              # 
+   directionOfFall: 350
    branches.small (<2"): 
    branches.large (>2"): 3
-   groundContact (decimal fraction):  70%
+   groundContact (decimal fraction):  .70
    cross.section (10’ from failure, round|oval|depleted): round
-   bark (decimal fraction): 20%
+   bark: 0.20
    exposed.wood (decimal fraction): 80% 
    wood.moisture.content: 
    wood.texture (hard, some soft, soft & powdery): soft and powdery 
    wood.structure (normal, blocky, strandy, spongy): strandy
    wood.color ([light|middle|dark] [brown|red-brown]): light brown
-   moss (0-5): 3
-   epiphytes (0-5): 4 
+   moss: 0.60   # fractional coverage
+   epiphytes: 9               # 0-10
    epiphyte.notes:  3 hemlocks, evergreen huckleberry, sword ferns, bracken ferns
    
 df.027:
-   date (yyyy-mm-dd): 2022-07-28
+   date: 2022-07-28
    lat:  47.559130
-   long: 122.250886
+   long: -122.250886
    notes: 3 mature red huckleberries, ferns.  large cut stump, might be broader
        than butt of log.  odd that tree was cut, but log not removed.
+   description: 
    dbh (inches): 33
    height of break (feet):  
-   failureMode (phaeolus, armillaria, clean uproot): phaeolus and laminated?
+   causeOfDeath (phaeolus, armillaria, clean uproot): phaeolus and laminated?
+   yearOfDeath:  1935              #
+   yearOfDeath.evidence:           # stump & butt both indicate saw
+   yearOfDeath.notes:              # reports of CCC camp mid-30s small-scale logging
    directionOfFall: 116 SE
    branches.small (<2"): 
    branches.large (>2"): 
-   groundContact (decimal fraction): complete 
+   groundContact (decimal fraction): 1.0
    cross.section (10’ from failure, round|oval|depleted): oval
-   bark (decimal fraction): 0.20%
+   bark: 0.20
    exposed.wood (decimal fraction): 0.80
    wood.moisture.content: 
    wood.texture (hard, some soft, soft & powdery): soft/powdery
    wood.structure (normal, blocky, strandy, spongy): spongy
    wood.color ([light|middle|dark] [brown|red-brown]): dark brown
-   moss (0-5): 10%
-   epiphytes (0-5): 5
+   moss: 0.10 # fractional coverage
+   epiphytes: 9 # 0-10
+
+df.028:
+   name: burned-barber chair
+   date: 2022-08-01
+   lat:  47.558593
+   long: 122.2507669
+   notes: invasive blackberry/barber chair/lots of burn/several different fungi
+   description: 
+   dbh (inches): 58in 
+   height of break (feet):  30
+   failureMode (phaeolus, armillaria, clean uproot): phaeloua/laminted/robust fungus?
+   directionOfFall: 12 N
+   branches.small (<2"): 
+   branches.large (>2"): 2 (huge) + 3(Big)
+   groundContact (decimal fraction): 95% 
+   cross.section (10’ from failure: round|oval|depleted): oval
+   bark (decimal fraction): 10
+   exposed.wood (decimal fraction): 0
+   wood.moisture.content: 10, 30, 50
+   wood.texture (hard, some soft, soft & powdery): soft and powdery
+   wood.structure (normal, blocky, strandy, spongy): spongy
+   wood.color ([light|middle|dark] [brown|red-brown]): red-brown
+   moss (0-10): 10
+   epiphytes (0-5): 1
+   epiphyteNotes: trailing blackberry and 1 maple
+   
+df.029: 
+   name: hemlock grave 2 
+   date: 2022-08-01
+   lat:  47.559080
+   long: 122.250120
+   notes: lots of black, not burn
+   description: 
+   dbh (inches): 41
+   height of break (feet): roots 
+   failureMode (phaeolus, armillaria, clean uproot): armillaria
+   directionOfFall: 65 NE
+   branches.small (<2"): 2
+   branches.large (>2"): 2
+   groundContact (decimal fraction): 1.0
+   cross.section (10’ from failure: round|oval|depleted): oval
+   bark (decimal fraction): .80
+   exposed.wood (decimal fraction): .20
+   wood.moisture.content: 10, 11, 12, 38, 70, 92, 
+   wood.texture (hard, some soft, soft & powdery): soft and powdery
+   wood.structure (normal, blocky, strandy, spongy): spongy
+   wood.color ([light|middle|dark] [brown|red-brown]): dark brown/red
+   moss (0-10): 6
+   epiphytes (0-10): 4 – 4 hemlocks, 1 cedar, trailing blackberry, 1 sword fern
+   
+df.030:
+   description:
+   date: 2022-08-01
+   lat:  47.559278
+   long: 122.249986
+   notes: fell across trail
+   description: 
+   dbh (inches): 48
+   height of break (feet):  2ft
+   failureMode (phaeolus, armillaria, clean uproot): phaeolus
+   directionOfFall: 30 NE
+   branches.small (<2"): 0
+   branches.large (>2"): 1 huge/2 big
+   groundContact (decimal fraction):  complete
+   cross.section (10’ from failure: round|oval|depleted): oval
+   bark (decimal fraction): 80%
+   exposed.wood (decimal fraction): 20%
+   wood.moisture.content: 93, 13, hemlock hunk – 13, 12, 16, 23, 22
+   wood.texture (hard, some soft, soft & powdery):soft/powdery 
+   wood.structure (normal, blocky, strandy, spongy): spongy
+   wood.color ([light|middle|dark] [brown|red-brown]): red-brown
+   moss: 5 
+   epiphytes: 3
+   epiphyteNotes: has3 hemlock on cut section – in hemlock zone
+   
+df.031:
+   date: 2022-08-01
+   lat:  47.559462
+   long: 122.249671
+   description: ancient stump
+   notes:  very old stump, mostly decayed log, 100' east downslope from trail
+   dbh: 52
+   height of break:  5
+   failureMode (phaeolus, armillaria, clean uproot): Phaelous
+   directionOfFall: 75 E
+   branches.small (<2"): 0
+   branches.large (>2"): 0
+   groundContact (decimal fraction): complete 
+   cross.section (10’ from failure: round|oval|depleted): oval
+   bark (decimal fraction): 0.0 
+   exposed.wood (decimal fraction): 1.0
+   wood.moisture.content: stump 10
+   wood.texture (hard, some soft, soft & powdery): soft and powdery
+   wood.structure (normal, blocky, strandy, spongy): blocky
+   wood.color ([light|middle|dark] [brown|red-brown]): red-brown
+   moss (0-10): 8
+   epiphytes (0-10): 6
+   epiphyteNotes: 1 cedar, sword fern, bracken fern, hemlock
+   

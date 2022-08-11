@@ -1,0 +1,7 @@
+lat	long	dbh	bark	moss	epiphytes	yearOfDeath	branches.small	branches.large	branches.huge	ground.contact	top.xsection	bottom.xsection	id
+47.55964	-122.249679	58	0.9	8	1	NA	0	2	3	1	round	round	df.043
+47.559692	-122.249824	38	0.9	8	2	NA	0	0	2	0.8	oval	round	df.044
+47.559802	-122.249786	24	0.5	5	3	NA	0	3	0	0.8	oval	oval	df.045
+47.559828	-122.250427	36	0.2	7	3	NA	0	0	0	1	oval	oval	df.046,47,48
+47.559942	-122.2500431	30	0.4	7	1	NA	0	5	0	0.95	oval	round	df.049
+47.55955	-122.250427	72	1	5	0	2010	2	5	20	0.95	round	round	df.050

@@ -4,12 +4,14 @@ f <- "logs.yaml"
 f <- "logs43-47.yaml"
 f <- "logs-009.yaml"
 base.name <- "logs-009-050"
+base.name <- "logs-with-deathDates"
 f <- sprintf("%s.yaml", base.name)
 file.exists(f)
 x <- yaml.load(readLines(f, n=-1))
 length(x)
 head(names(x))
-expected.fields <- c("lat",
+expected.fields <- c("description",
+                     "lat",
                      "long",
                      "dbh",
                      "bark",
@@ -25,8 +27,12 @@ expected.fields <- c("lat",
 for(i in seq_len(length(x))){
     actual <- names(x[[i]])
     printf("checking tree %s", names(x)[i])
-    stopifnot(all(expected.fields %in% names(x[[i]])))
-    }
+    missing <- setdiff(expected.fields, names(x[[i]]))
+    if(length(missing) > 0){
+        printf("missing: %s", paste(missing, collapse=", "))
+        stop()
+        } # if missing
+    } # for i
 
 extract <- function(el){
     stopifnot(all(expected.fields %in% names(el)))
@@ -42,7 +48,8 @@ extract <- function(el){
                branches.huge=el$branches.huge,
                ground.contact=el$ground.contact,
                top.xsection=el$top.cross.section,
-               bottom.xsection=el$bottom.cross.section
+               bottom.xsection=el$bottom.cross.section,
+               description=el$description
                )
     }
 

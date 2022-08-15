@@ -1,0 +1,41 @@
+df.102:
+   description:    30' snag, west side of trail, fell east
+   notes:   small conifer growing out of minor barber chair, second
+      known-date fallen fir when walking north on the sqebeqsed
+   status:  active
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554492      
+   long: 122.250272
+   dbh: 60
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag
+   failureHeight:  30
+   directionOfFall: 33
+   branches.small:  0
+   branches.large:  0
+   branches.huge:   0
+   ground.contact:  -1
+   ground.contact.notes: 
+   sag:             -1
+   bark:           1.0
+   bottom.decay:    0.0
+   bottom.decay.notes:  NA
+   mid.decay:       0.0
+   mid.decay.notes:  NA   
+   top.decay:       0.0
+   top.decay.length: 0
+   top.decay.notes:  decayed but still round
+   bottom.cross.section: round
+   top.cross.section: round
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: acma, qual, ruur
+   epiphytes.overall.moss: -1
+   epiphyte.overall:  -1
+   epiphyte.overall.notes: 

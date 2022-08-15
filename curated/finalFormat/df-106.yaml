@@ -1,0 +1,40 @@
+df.106:
+   description:  giant, barber chair, burned bark, fell parallel to trail pointing east
+   notes:  peggy claimed 1993 inaugural day storm for this tree, cma 2006, same as df.017
+   status:  active
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554962
+   long: 122.252279
+   dbh: 48
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag
+   failureHeight:   12
+   directionOfFall: -1
+   branches.small:  -1
+   branches.large:  -1
+   branches.huge:   -1
+   ground.contact:  -1
+   ground.contact.notes: NA
+   sag:             -1
+   bark:           1.0
+   bottom.decay:    -1
+   bottom.decay.notes:  NA
+   mid.decay:       -1
+   mid.decay.notes:  NA   
+   top.decay:       -1
+   top.decay.length: -1
+   top.decay.notes:  NA
+   bottom.cross.section: round
+   top.cross.section: NA
+   epiphytes.meter.1:
+      moss: 0.65
+      leafCoverage: 0.45
+   epiphytes.meter.2:
+      moss: 0.30
+      leafCoverage: 0.20
+   epiphyte.species: rusp, pomu, acma, gash, arme, vapa, quru, ruur, psme
+   epiphytes.overall.moss: -1
+   epiphyte.overall:  -1
+   epiphyte.overall.notes: 

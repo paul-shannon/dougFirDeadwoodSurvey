@@ -1,0 +1,42 @@
+# hand-entered by pshannon (11 aug 2022) from tuesday-02aug2022.txt, creating logs-with-deathDates.yaml
+# then transformed to full markup here.
+df.101:
+   description:  grafitti removal hanukkah tree, southernmost landmark tree
+   notes:  early paint removed, hacked up.  crossed trail, fell west to east
+   status:  ready
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554323
+   long: 122.250226
+   dbh: 47
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   uproot
+   failureHeight:  0
+   directionOfFall: 33
+   branches.small:  4
+   branches.large:  5
+   branches.huge:   6
+   ground.contact:  0.9
+   ground.contact.notes: no sign of sag, 20" of air at east edge of trail where section was removed
+   sag:             0.0
+   bark: 1.0
+   bottom.decay:    0.0
+   bottom.decay.notes:  NA
+   mid.decay:       0.0
+   mid.decay.notes:  NA   
+   top.decay:       0.5
+   top.decay.length: 10
+   top.decay.notes:  decayed but still round
+   bottom.cross.section: round
+   top.cross.section: round
+   epiphytes.meter.1:
+      moss: 0.70
+      leafCoverage: 0.05
+   epiphytes.meter.2:
+      moss: 0.30
+      leafCoverage: 0.02
+   epiphyte.species: acma, qual, ruur
+   epiphytes.overall.moss: 0.90 
+   epiphyte.overall:  0.3
+   epiphyte.overall.notes: gash, ruur, acma, pomu quite thick w/in 10' of base.  cd not find oak

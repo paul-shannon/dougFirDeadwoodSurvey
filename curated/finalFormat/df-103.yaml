@@ -1,0 +1,40 @@
+df.103:
+   description:  fenced tree at intersection of andrew's bay and woodpecker trails
+   notes:  fenced off to discourage climbing
+   status:  active
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554918
+   long: 122.251431
+   dbh: 35
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   uproot
+   failureHeight:  0
+   directionOfFall: -1
+   branches.small:  -1
+   branches.large:  -1
+   branches.huge:   -1
+   ground.contact:  -1
+   ground.contact.notes: no sign of sag, 20" of air at east edge of trail where section was removed
+   sag:             -1
+   bark: 1.0
+   bottom.decay:    -1
+   bottom.decay.notes:  NA
+   mid.decay:       -1
+   mid.decay.notes:  NA   
+   top.decay:       -1
+   top.decay.length: -1
+   top.decay.notes:  decayed but still round
+   bottom.cross.section: round
+   top.cross.section: round
+   epiphytes.meter.1:
+      moss: -1
+      leafCoverage: -1
+   epiphytes.meter.2:
+      moss: -1
+      leafCoverage: -1
+   epiphyte.species: acma, qual, ruur
+   epiphytes.overall.moss: -1
+   epiphyte.overall:  -1
+   epiphyte.overall.notes: 

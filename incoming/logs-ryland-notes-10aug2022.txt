@@ -1,0 +1,317 @@
+Douglas fir #/Year: 43 - 100 years 
+Latitude: 47.559640 N 
+Longitude: 122.249679 W 
+DBH(in): 58in 
+Point of Failure/Death(Roots, base, stump/snag): 8ft snag 
+Decay Extent: 20%? 
+Condition of Ground Evenness: Steep downhill 
+Ground Contact:                                      
+  • Fully Supported: 
+  • Some support: 
+  • Sagging: 
+  • Partial contact: 
+  • Full Contact: X 
+Branches: 
+   • Small < 2in: 
+   • Large > 2in: 2n 
+   • Huge: 3 
+Moss Coverage (%): 80% 
+   • Coverage on one part of log?: 
+Bark: 
+   • Intact: 
+   • Partially intact: X - 90% 
+   • Some: 
+   • Absent: 
+
+Epiphytes: 
+
+• None: 
+
+• Some: X 
+
+• Very Few: 
+
+• Many: 
+
+• Anything Notable: 
+
+Log Shape: 
+
+• Log is round: 
+
+• Oval at top, base, or mid-section: X - top
+
+Douglas fir #/Year: 44 - 
+Latitude: 47.559692 N 
+Longitude: 122.249824 W 
+DBH(in): 38in 
+Point of Failure/Death(Roots, base, stump/snag): Uproot 
+Decay Extent: Solid at base/spongey and rotten at top 
+Condition of Ground Evenness: steep downhill 
+Ground Contact:                                      
+• Fully Supported: 
+• Some support: X 
+• Sagging: 
+• Partial contact: 
+• Full Contact: 
+Branches: 
+• Small < 2in: 
+• Large > 2in:  
+• Huge: 2 
+Moss Coverage (%): 80% 
+• Coverage on one part of log?: 
+Bark: 
+• Intact: 
+• Partially intact: X 
+• Some: 
+• Absent: 
+Epiphytes: 
+• None: 
+• Some: X 
+• Very Few: 
+• Many: 
+• Anything Notable: 
+Log Shape: 
+• Log is round: 
+• Oval at top, base, or mid-section: X - top
+
+Douglas fir #/Year: 45 - >100 years 
+Latitude: 47.559802 N 
+Longitude: 122.249786 W 
+DBH(in): 24in 
+Point of Failure/Death(Roots, base, stump/snag): Roots 
+Decay Extent: 50% 
+Condition of Ground Evenness: Steep downhill 
+Ground Contact:                                      
+• Fully Supported: 
+• Some support: 
+• Sagging: 
+• Partial contact: 
+• Full Contact: X 
+Branches: 
+• Small < 2in: 0 
+• Large > 2in: 3 
+• Huge: 0 
+Moss Coverage (%): 50% 
+• Coverage on one part of log?: 
+Bark: 
+• Intact: 
+• Partially intact: 
+• Some: X - none at top 
+• Absent: 
+Epiphytes: 
+• None: 
+• Some: X 
+• Very Few: 
+• Many: 
+• Anything Notable: 
+Log Shape: 
+• Log is round: 
+• Oval at top, base, or mid-section: X- base and top
+
+
+
+Douglas fir #/Year: 46/47/48 Fell a long time ago 
+
+Latitude: 47.559828 N 
+
+Longitude: 122.250427 W 
+
+DBH(in): 3ft? 
+
+Point of Failure/Death(Roots, base, stump/snag): Roots 
+
+Decay Extent: Basically powder - 80% 
+
+Condition of Ground Evenness: Slight decline 
+
+Ground Contact:                                      
+
+• Fully Supported: 
+
+• Some support: 
+
+• Sagging: 
+
+• Partial contact: 
+
+• Full Contact: X 
+
+Branches: 
+
+• Small < 2in: 0 
+
+• Large > 2in: 0 
+
+• Huge: 0 
+
+Moss Coverage (%): 70% on all 
+
+• Coverage on one part of log?: 
+
+Bark: 
+
+• Intact: 
+
+• Partially intact: 
+
+• Some: X 
+
+• Absent: 
+
+Epiphytes: 
+
+• None: 
+
+• Some: X 
+
+• Very Few: 
+
+• Many: 
+
+• Anything Notable: 
+
+Log Shape: 
+
+• Log is round: 
+
+• Oval at top, base, or mid-section: X - all
+
+
+
+Douglas fir #/Year: 48 
+
+Latitude: 47.559942 N 
+
+Longitude: 122.2500431 W 
+
+DBH(in): 30in 
+
+Point of Failure/Death(Roots, base, stump/snag): Base 
+
+Decay Extent: 30% 
+
+Condition of Ground Evenness: Slight decline 
+
+Ground Contact:                                      
+
+• Fully Supported: 
+
+• Some support: 
+
+• Sagging: 
+
+• Partial contact: X - almost complete 
+
+• Full Contact: 
+
+Branches: 
+
+• Small < 2in: 
+
+• Large > 2in: 5 across trail 
+
+• Huge: 
+
+Moss Coverage (%): 70% 
+
+• Coverage on one part of log?: 
+
+Bark: 
+
+• Intact: 
+
+• Partially intact: 
+
+• Some: x 
+
+• Absent: 
+
+Epiphytes: 
+
+• None: 
+
+• Some: 
+
+• Very Few: X 
+
+• Many: 
+
+• Anything Notable: 
+
+Log Shape: 
+
+• Log is round: 
+
+• Oval at top, base, or mid-section: Oval at top
+
+
+
+
+
+Douglas fir #/Year: 49 
+
+Latitude: 47.559550 N 
+
+Longitude: 122.250427 W 
+
+DBH(in): 52in 
+
+Point of Failure/Death(Roots, base, stump/snag): 5ft snag 
+
+Decay Extent: Solid at base, spongey at top 
+
+Condition of Ground Evenness: Steep decline 
+
+Ground Contact:                                      
+
+• Fully Supported: 
+
+• Some support: 
+
+• Sagging: 
+
+• Partial contact: 
+
+• Full Contact: X 
+
+Branches: 
+
+• Small < 2in: 0 
+
+• Large > 2in: 0 
+
+• Huge: 0 
+
+Moss Coverage (%): 50% 
+
+• Coverage on one part of log?: 
+
+Bark: 
+
+• Intact: 
+
+• Partially intact: 
+
+• Some: X 
+
+• Absent: 
+
+Epiphytes: 
+
+• None: 
+
+• Some: 
+
+• Very Few: 
+
+• Many: X 
+
+• Anything Notable: doug fir 
+
+Log Shape: 
+
+• Log is round: 
+
+• Oval at top, base, or mid-section: X - all
+

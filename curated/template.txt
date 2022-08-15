@@ -1,0 +1,78 @@
+# Bob Edmonds notes on doug fir diseases
+# ----- root and butt
+# phellinus sulphurascens: aka laminated root rot, yellow ring rot, Douglas-fir less than 80 years
+# phaeolus schweintzii: velvet-top fungus, mostly older Douglas-fir
+# armillaria ostoyea: Armillaria root disease, all tree species.  mycelium invades the sapwood and is
+#    able to disseminate over great distances under the bark or between trees in the form of black rhizomorphs ("shoestrings").
+# heterobasidion (annosus) root disease: hard to diagnose, mainly eastside firs? hemlocks > 120 years.
+# ----- stem
+#  Porodaedalea pini: older Douglas-fir, heartwood but also sapwood, 'red ring rot' or 'white speck'.
+#     causes white pocket trunk rot.  conks have pretty concentric red rings.
+
+df.xxx:
+   description:  
+   notes:  
+   status:                   # verified, needs review
+   datedReferenceTree:       # true or false
+   date: 2022-08-11
+   lat: 47.
+   long: 122.
+   dbh: 0
+   yearOfDeath: -1
+   yearOfDeath.evidence: 
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.xxx
+   date: 2022-08-
+   description:  
+   notes:  
+   lat:  47.
+   long: 122.
+   dbh: 
+   datedDeath: false
+   yearOfDeath: 
+   yearOfDeath.evidence:     # exact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round    # round, oval, depleted
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+   

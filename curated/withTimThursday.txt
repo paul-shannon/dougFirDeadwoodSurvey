@@ -1,0 +1,56 @@
+---- good snag on left of sqebeqsed, fell east, across the trail, tim's first epiphyte survey tree
+not sure id  47.554377  -122.250211
+ plot 1:  70% moss 5% leaf cover of woody plants
+      2:  30% moss 2% leaf
+       species: big leaf maple, white oak, trailing blackberry
+
+
+----- tree 2, hannukah  tree, big, on right heading down the andrews bay trail.
+lat: 47.554910 (10' south of tree)
+lon: 122.252229  
+-- meter 1
+   moss coverage: 65%
+   leaf coverage: 45%
+--- meter 2
+   moss coverage: 30%
+   leaf coverage: 20%
+
+
+salmonberry: 1
+sword fern:
+big leaf maple:
+salal:
+madrone:
+red huckleberry:
+red oak:
+trailing blackberry:
+doug fir:
+
+
+---- tree 3 with tim
+   fell in july 2015, cma had watched north-facing vertical crack develop
+   we cored this tree
+   lat: 47.555485   (previously: 47.555437  delta 0.000048)
+   lon: 122.252956  (previously: 122.252991 delta 0.000035)
+   doug fir:
+   trailing blackberry:
+   big leaf maple:
+   unidentified species:
+   meter 1:
+     moss:  10%
+     leaf coverage:  1%
+   meter 2:
+     moss:  5%
+     leaf coverage:  0%
+
+--- across from tim's sword fern die-off
+    47.556052
+   122.253292
+   1 meter:  100%moss, 0% leaf
+   2 meter:  100%moss, 0% leaf
+
+ rootball epiphyte species:
+   maple
+   sword fern
+   baldhip rose-0
+   

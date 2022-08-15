@@ -1,0 +1,29 @@
+df.
+   date (yyyy-mm-dd):
+   lat:  
+   long: 
+   dbh (inches): 
+   height (feet): 
+   failureMode (phaeolus, armillaria, clean uproot): 
+   notes:
+   branches.small (<2"):
+   branches.large (>2"):
+   groundContact (decimal fraction):  
+   cross.section.shape (at 10’ from failure: round|oval|depleted):
+   bark (decimal fraction): 
+   exposedWood.texture (hard, some soft, soft & powdery): 
+   exposedWood.structure (normal, blocky, strandy, spongy): 
+   exposedWood.color ([light|middle|dark] [brown|red-brown]): 
+   moss (decimal fractional coverage): 
+   broadLeafForbs (decimal fractional coverage): 
+   ferns (count): 
+   woody.seedlings (count < 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry: 
+      evergreenHuckleberry:
+   woody.sapplings (count >= 1"):
+      cedar: 
+      hemlock: 
+      redHuckleberry:
+      evergreenHuckleberry:

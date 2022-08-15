@@ -1,0 +1,615 @@
+# hand-entered by pshannon (11 aug 2022) from tuesday-02aug2022.txt
+df.101:
+   description:  grafitti removal hanukkah tree
+   notes:  early paint removed, hacked up.  crossed trail, fell west to east
+   status:  ready
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554323
+   long: 122.250226
+   dbh: 47
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   uproot       # uproot, at roots, stump, snag
+   failureHeight:  0         # feet
+   directionOfFall: 33         # degrees
+   branches.small:  4        #  < 2"
+   branches.large:  5        #  > 2"
+   branches.huge:   6        #  > 6"
+   ground.contact:  0.9      # eg, 0.90
+   ground.contact.notes: no sign of sag, 20" of air at east edge of trail where section was removed
+   sag:             0.0
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0.0      # at rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0.0      # halfway up log, however long it is
+   mid.decay.notes:     
+   top.decay:       0.5      # find top where it lies, score decay
+   top.decay.length: 10       # feet
+   top.decay.notes:  decayed but still round
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   epiphytes.meter.1:
+      moss: 0.70
+      leafCoverage: 0.05
+   epiphytes.meter.2:
+      moss: 0.30
+      leafCoverage: 0.02
+   epiphyte.species: big leaf maple, white oak, trailing blackberry
+   epiphytes.overall.moss: 0.90 
+   epiphyte.overall:  3 
+   epiphyte.overall.notes: gash, ruur, acma, pomu quite thick w/in 10' of base.  cd not find oak
+
+
+df.102:
+   description:  30' snag, west side of trail, fell east across trail, 
+      small conifer growing out of minor barber chair. 
+   notes:  
+   status:   needs review
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554492      
+   long: 122.250272
+   dbh: 60
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: 30         # feet
+   directionOfFall: 33       # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.103:
+   description:   fenced tree
+   notes:  
+   status: needs review
+   datedReferenceTree: true
+   date: 2022-08-03
+   lat:  47.554918
+   long: 122.251431
+   dbh: 35
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+# df.104:
+#    description:  fenced ground 0 1992 or 1964. needs lat/long/dbh
+#    date: 2022-08-03
+#    notes:  
+#    lat: 47.
+#    long: 122.
+#    dbh: 0
+#    yearOfDeath: -1
+#    yearOfDeath.evidence: 
+#    failureMode:   snag       # uproot, at roots, stump, snag
+#    failureHeight: -1         # feet
+#    directionOfFall:          # degrees
+#    branches.small:  0        #  < 2"
+#    branches.large:  0        #  > 2"
+#    branches.huge:   0        #  > 6"
+#    ground.contact:  -1       # eg, 0.90
+#    bark: 1.0                 # eg, 1.0 for completely intact bark
+#    bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+#    bottom.decay.notes:     
+#    mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+#    mid.decay.notes:     
+#    top.decay:       0        # find top where it lies, describe decay length and extent
+#    top.decay.notes:
+#    bottom.cross.section: round # round, oval, depleted
+#    top.cross.section: round       # round, oval, depleted
+#    moss: 0.0                 # eg, 0.80
+#    epiphytes: 0              # 1-10
+#    epiphyte.notes:           # species, count, size, etc.
+
+# df.105:
+#    description:  bridge tree 1997
+#    date: 2022-08-03
+#    notes:  
+#    lat: 47.
+#    long: 122.
+#    dbh: 0
+#    yearOfDeath: -1
+#    yearOfDeath.evidence: 
+#    failureMode:   snag       # uproot, at roots, stump, snag
+#    failureHeight: -1         # feet
+#    directionOfFall:          # degrees
+#    branches.small:  0        #  < 2"
+#    branches.large:  0        #  > 2"
+#    branches.huge:   0        #  > 6"
+#    ground.contact:  -1       # eg, 0.90
+#    bark: 1.0                 # eg, 1.0 for completely intact bark
+#    bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+#    bottom.decay.notes:     
+#    mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+#    mid.decay.notes:     
+#    top.decay:       0        # find top where it lies, describe decay length and extent
+#    top.decay.notes:
+#    bottom.cross.section: round # round, oval, depleted
+#    top.cross.section: round       # round, oval, depleted
+#    moss: 0.0                 # eg, 0.80
+#    epiphytes: 0              # 1-10
+#    epiphyte.notes:           # species, count, size, etc.
+
+df.106:
+   description:  after bridge
+   notes:  
+   status:  needs review
+   datedReferenceTree:   true
+   date: 2022-08-03
+   lat:  47.554962  -122.252279
+   long: 122.252279
+   dbh: 0
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.107:
+   description: rick's chainsaw tree,  2010, andrews bay trail, north side
+   notes:  
+   status:  needs review, dbh 
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat: 47.554825
+   long: 122.253345
+   dbh: 0
+   yearOfDeath: 2010
+   yearOfDeath.evidence:  cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.108:
+   description:  2008 by hemlock
+   notes:  
+   status:  needs review
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.556548
+   long: 122.252704
+   dbh: 26
+   yearOfDeath: 2008
+   yearOfDeath.evidence:  cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.109:
+   description:  from cma followup, but no description provided
+   notes:  
+   status:  needs review, needs date
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.557215
+   long: 122.252907
+   dbh: 25
+   yearOfDeath: -1
+   yearOfDeath.evidence: 
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.110:
+   description:  uproot on east trail, fell in last 20 years, 30'
+   notes:  
+   status:   needs review
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554430
+   long: 122.249816
+   dbh: 37
+   yearOfDeath: 2002
+   yearOfDeath.evidence:  inexact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.111:
+   description: west side of sqebeqsed, 100 feet from junction
+   notes:  
+   status:     needs review
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.554950
+   long: 122.250359
+   notes: part surrounded by lots of maples with moss  
+   dbh: 44
+   yearOfDeath:  2002
+   yearOfDeath.evidence:  inexact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.112:
+   description:  cored tree during research prep, cma report, fell SSE
+   notes:  cma observed north-facing vertical crack develop over time
+   status:  needs review
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.555437
+   long: 122.252991
+   dbh: 70
+   datedDeath: true
+   yearOfDeath: 2015
+   yearOfDeath.evidence:  exact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes: 
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.113:
+   description:  2006, woodpecker trail, across from Tim's sword ferns. 
+   notes:  
+   status:   needs review
+   datedReferenceTree: true
+   date: 2022-08-03
+   lat:  47.555922
+   long: 122.253216
+   dbh: 24
+   yearOfDeath: 2006
+   yearOfDeath.evidence:  cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+# df.114:
+#    description:  unknown
+#    date: 2022-08-03
+#    notes:  
+#    lat:  47.555437
+#    long: 122.252991
+#    dbh: 70
+#    yearOfDeath: 2002
+#    yearOfDeath.evidence:  inexact cma report
+#    failureMode:   snag       # uproot, at roots, stump, snag
+#    failureHeight: -1         # feet
+#    directionOfFall:          # degrees
+#    branches.small:  0        #  < 2"
+#    branches.large:  0        #  > 2"
+#    branches.huge:   0        #  > 6"
+#    ground.contact:  -1       # eg, 0.90
+#    bark: 1.0                 # eg, 1.0 for completely intact bark
+#    bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+#    bottom.decay.notes:     
+#    mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+#    mid.decay.notes:     
+#    top.decay:       0        # find top where it lies, describe decay length and extent
+#    top.decay.notes:
+#    bottom.cross.section: round # round, oval, depleted
+#    top.cross.section: round       # round, oval, depleted
+#    moss: 0.0                 # eg, 0.80
+#    epiphytes: 0              # 1-10
+#    epiphyte.notes:           # species, count, size, etc.
+
+df.115:
+   description:  plague tree (start of covid, 2018) just east of huckleberry trail
+   notes:  
+   status:   needs review            # verified, needs review
+   datedReferenceTree: true    # true or false
+   date: 2022-08-03
+   lat:  47.559312
+   long: 122.251211
+   dbh: 42                     # inches
+   yearOfDeath: 2002
+   yearOfDeath.evidence:  inexact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:
+
+df.116:
+   description: stump with full log, presumed to be mid 1930's, rare old reference tree
+   notes: 3 mature red huckleberries, ferns.  large cut stump, might be broader
+       than butt of log.  odd that tree was cut, but log not removed.
+   status:                   # verified, needs review
+   datedReferenceTree: true  # true or false
+   status:   needs review    # needs review, verified
+   date: 2022-07-28
+   lat:  47.559130 
+   long: 122.250886
+   dbh: 33
+   yearOfDeath: 1935
+   yearOfDeath.evidence:  inferred from logging history
+   failureMode:    logging   # uproot, at roots, stump, snag
+   failureHeight: -1         3        # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+   epiphytes.overall.moss: 0.0 
+   epiphytes.meter.1:
+      moss: 0.10
+      leafCoverage: 0.01
+   epiphytes.meter.2:
+      moss: 0.05
+      leafCoverage: 0.0
+   epiphyte.species: trailing blackberry, bigleaf maple, doug fir
+   epiphyte.notes:

@@ -1,0 +1,436 @@
+# hand-entered by pshannon (11 aug 2022) from tuesday-02aug2022.txt
+df.101:
+   description:  grafitti removal hannukak tree
+   date: 2022-08-03
+   notes:  
+   lat:  47.554238
+   long: 122.250014
+   dbh: 0
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.102:
+   description:  "second tree?"
+   date: 2022-08-03
+   notes:  
+   lat:  47.554492
+   long: 122.250272
+   dbh: 0
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.103:
+   description:   fenced tree
+   date: 2022-08-03
+   notes:  
+   lat:  47.554918
+   long: 122.251431
+   dbh: 35
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+# df.104:
+#    description:  fenced ground 0 1992 or 1964. needs lat/long/dbh
+#    date: 2022-08-03
+#    notes:  
+#    lat: 47.
+#    long: 122.
+#    dbh: 0
+#    yearOfDeath: -1
+#    yearOfDeath.evidence: 
+#    failureMode:   snag       # uproot, at roots, stump, snag
+#    failureHeight: -1         # feet
+#    directionOfFall:          # degrees
+#    branches.small:  0        #  < 2"
+#    branches.large:  0        #  > 2"
+#    branches.huge:   0        #  > 6"
+#    ground.contact:  -1       # eg, 0.90
+#    bark: 1.0                 # eg, 1.0 for completely intact bark
+#    bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+#    bottom.decay.notes:     
+#    mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+#    mid.decay.notes:     
+#    top.decay:       0        # find top where it lies, describe decay length and extent
+#    top.decay.notes:
+#    bottom.cross.section: round # round, oval, depleted
+#    top.cross.section: round       # round, oval, depleted
+#    moss: 0.0                 # eg, 0.80
+#    epiphytes: 0              # 1-10
+#    epiphyte.notes:           # species, count, size, etc.
+
+# df.105:
+#    description:  bridge tree 1997
+#    date: 2022-08-03
+#    notes:  
+#    lat: 47.
+#    long: 122.
+#    dbh: 0
+#    yearOfDeath: -1
+#    yearOfDeath.evidence: 
+#    failureMode:   snag       # uproot, at roots, stump, snag
+#    failureHeight: -1         # feet
+#    directionOfFall:          # degrees
+#    branches.small:  0        #  < 2"
+#    branches.large:  0        #  > 2"
+#    branches.huge:   0        #  > 6"
+#    ground.contact:  -1       # eg, 0.90
+#    bark: 1.0                 # eg, 1.0 for completely intact bark
+#    bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+#    bottom.decay.notes:     
+#    mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+#    mid.decay.notes:     
+#    top.decay:       0        # find top where it lies, describe decay length and extent
+#    top.decay.notes:
+#    bottom.cross.section: round # round, oval, depleted
+#    top.cross.section: round       # round, oval, depleted
+#    moss: 0.0                 # eg, 0.80
+#    epiphytes: 0              # 1-10
+#    epiphyte.notes:           # species, count, size, etc.
+
+df.106:
+   description:  after bridge
+   date: 2022-08-03
+   notes:  
+   lat:  47.554962
+   long: 122.252279
+   dbh: 0
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+# df.107:
+#    description:   rick 2010.  needs lat/long/dbh
+#    date: 2022-08-03
+#    notes:  
+#    lat: 47.
+#    long: 122.
+#    dbh: 0
+#    yearOfDeath: -1
+#    yearOfDeath.evidence: 
+#    failureMode:   snag       # uproot, at roots, stump, snag
+#    failureHeight: -1         # feet
+#    directionOfFall:          # degrees
+#    branches.small:  0        #  < 2"
+#    branches.large:  0        #  > 2"
+#    branches.huge:   0        #  > 6"
+#    ground.contact:  -1       # eg, 0.90
+#    bark: 1.0                 # eg, 1.0 for completely intact bark
+#    bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+#    bottom.decay.notes:     
+#    mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+#    mid.decay.notes:     
+#    top.decay:       0        # find top where it lies, describe decay length and extent
+#    top.decay.notes:
+#    bottom.cross.section: round # round, oval, depleted
+#    top.cross.section: round       # round, oval, depleted
+#    moss: 0.0                 # eg, 0.80
+#    epiphytes: 0              # 1-10
+#    epiphyte.notes:           # species, count, size, etc.
+
+df.108:
+   description:  2008 by hemlock
+   date: 2022-08-03
+   notes:  
+   lat:  47.556548
+   long: 122.252704
+   dbh: 26
+   yearOfDeath: 2008
+   yearOfDeath.evidence:  cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.109:
+   description:  from cma followup, but no description provided
+   date: 2022-08-03
+   notes:  
+   lat:  47.557215
+   long: 122.252907
+   dbh: 25
+   yearOfDeath: -1
+   yearOfDeath.evidence: 
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.110:
+   description:  uproot on right side trail, fell in last 20 years
+   date: 2022-08-03
+   notes:  
+   lat:  47.554430
+   long: 122.249816
+   dbh: 37
+   yearOfDeath: 2002
+   yearOfDeath.evidence:  inexact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.111:
+   description:  pending
+   date: 2022-08-03
+   lat:  47.554950
+   long: 122.250359
+   notes: part surrounded by lots of maples with moss  
+   dbh: 44
+   yearOfDeath:  2002
+   yearOfDeath.evidence:  inexact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.112:
+   description:  cored tree during research prep, < 20 years
+   date: 2022-08-03
+   notes:  
+   lat:  47.555437
+   long: 122.252991
+   dbh: 70
+   yearOfDeath: 2002
+   yearOfDeath.evidence:  inexact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.113:
+   description:  2006 Ð across from Tim's sword ferns. 
+   date: 2022-08-03
+   notes:  
+   lat:  47.555922
+   long: 122.253216
+   dbh: 24
+   yearOfDeath: 2006
+   yearOfDeath.evidence:  cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+
+# df.114:
+#    description:  unknown
+#    date: 2022-08-03
+#    notes:  
+#    lat:  47.555437
+#    long: 122.252991
+#    dbh: 70
+#    yearOfDeath: 2002
+#    yearOfDeath.evidence:  inexact cma report
+#    failureMode:   snag       # uproot, at roots, stump, snag
+#    failureHeight: -1         # feet
+#    directionOfFall:          # degrees
+#    branches.small:  0        #  < 2"
+#    branches.large:  0        #  > 2"
+#    branches.huge:   0        #  > 6"
+#    ground.contact:  -1       # eg, 0.90
+#    bark: 1.0                 # eg, 1.0 for completely intact bark
+#    bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+#    bottom.decay.notes:     
+#    mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+#    mid.decay.notes:     
+#    top.decay:       0        # find top where it lies, describe decay length and extent
+#    top.decay.notes:
+#    bottom.cross.section: round # round, oval, depleted
+#    top.cross.section: round       # round, oval, depleted
+#    moss: 0.0                 # eg, 0.80
+#    epiphytes: 0              # 1-10
+#    epiphyte.notes:           # species, count, size, etc.
+
+df.115:
+   description:  plague tree (start of covid, 2018)
+   date: 2022-08-03
+   notes:  
+   lat:  47.559312
+   long: 122.251211
+   dbh: 42                     # inches
+   yearOfDeath: 2002
+   yearOfDeath.evidence:  inexact cma report
+   failureMode:   snag       # uproot, at roots, stump, snag
+   failureHeight: -1         # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  < 2"
+   branches.large:  0        #  > 2"
+   branches.huge:   0        #  > 6"
+   ground.contact:  -1       # eg, 0.90
+   bark: 1.0                 # eg, 1.0 for completely intact bark
+   bottom.decay:    0        # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   mid.decay:       0        # of rootball or stump or snag, a decimal fraction
+   mid.decay.notes:     
+   top.decay:       0        # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section: round # round, oval, depleted
+   top.cross.section: round       # round, oval, depleted
+   moss: 0.0                 # eg, 0.80
+   epiphytes: 0              # 1-10
+   epiphyte.notes:           # species, count, size, etc.
+

@@ -1,0 +1,40 @@
+df.107:
+   description:  rick's chainsaw tree
+   notes:   lower portion of the andrew's bay trail, a dozen yars above the steep steps
+   status:  active
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat: 47.554825
+   long: 122.253345
+   dbh: -1
+   yearOfDeath: 2010
+   yearOfDeath.evidence: cma report
+   failureMode:   NA
+   failureHeight:  -1
+   directionOfFall: -1
+   branches.small:  -1
+   branches.large:  -1
+   branches.huge:   -1
+   ground.contact:  -1
+   ground.contact.notes: 
+   sag:             -1
+   bark:            -1
+   bottom.decay:    -1
+   bottom.decay.notes:  NA
+   mid.decay:       -1
+   mid.decay.notes:  NA   
+   top.decay:       -1
+   top.decay.length: -1
+   top.decay.notes:  NA
+   bottom.cross.section: NA
+   top.cross.section: NA
+   epiphytes.meter.1:
+      moss: -1
+      leafCoverage: -1
+   epiphytes.meter.2:
+      moss: -1
+      leafCoverage: -1
+   epiphyte.species: NA
+   epiphytes.overall.moss: -1
+   epiphyte.overall:  -1
+   epiphyte.overall.notes: NA

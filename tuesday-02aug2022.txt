@@ -1,0 +1,528 @@
+# Bob Edmonds notes on doug fir diseases
+# ----- root and butt
+# phellinus sulphurascens: aka laminated root rot, yellow ring rot, Douglas-fir less than 80 years
+# phaeolus schweintzii: velvet-top fungus, mostly older Douglas-fir
+# armillaria ostoyea: Armillaria root disease, all tree species.  mycelium invades the sapwood and is
+#    able to disseminate over great distances under the bark or between trees in the form of black rhizomorphs ("shoestrings").
+# heterobasidion (annosus) root disease: hard to diagnose, mainly eastside firs? hemlocks > 120 years.
+# ----- stem
+#  Porodaedalea pini: older Douglas-fir, heartwood but also sapwood, 'red ring rot' or 'white speck'.
+#     causes white pocket trunk rot.  conks have pretty concentric red rings.
+df.032:2006
+   description: graffiti removal Hannukah tree  df.101
+   date: 2022-08-03
+   lat:  47.554238 N
+   long: 122.250014 W
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  yes        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark: intact                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay: round             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:DBH – 10 inch and round                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:40%                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.033:2006 – 2nd tree
+   description:              # now df.102
+   date: 2022-08-03
+   lat:  47.554492 N
+   long: 122.250272 W
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  no        #  <2"
+   branches.large:  yes        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact: some support            # eg, 0.90
+   bark: intact                    # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay: round with 10 in diameter               # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:small ones           # species, count, size, etc.
+
+df.034:2006 fenced tree
+   description:              # now df.103
+   date: 2022-08-03
+   lat:  47.554918 N
+   long: 122.251431 W
+   notes:  
+   dbh: 35in                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large: large        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact: Lots of support           # eg, 0.90
+   bark: intact                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section: round        # round, oval, depleted
+   moss: 90%
+                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:very littlr           # species, count, size, etc.
+
+df.035:fenced ground 0 1992 or 1964
+   description:              # now df.104
+   date: 2022-08-03
+   lat:  47.
+   long: 122.
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.036:bridge tree 1997
+   description:              # now df.105
+   date: 2022-08-03
+   lat:  47.
+   long: 122.
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.037:2006 after bridge
+   description:              # now df.106
+   date: 2022-08-03
+   lat:  47.554962 N
+   long: 122.252279 W
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark: intact                      # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:decent amount of them                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.038:rick 2010
+   description:              # noteworthy features to help finding again in the future
+   date: 2022-08-03
+   lat:  47.
+   long: 122.
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+df.038:rick 2010
+   description:              # noteworthy features to help finding again in the future
+   date: 2022-08-03
+   lat:  47.
+   long: 122.
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+df.038:rick 2010
+   description:              # noteworthy features to help finding again in the future
+   date: 2022-08-03
+   lat:  47.
+   long: 122.
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+df.038:2008 by hemlock
+   description:              # now df.108
+   date: 2022-08-03
+   lat:  47.556548 N
+   long: 122.252704 W
+   notes:  
+   dbh:26in                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  6        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:supported            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay: round               # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss: 80%                    # 0-10
+   epiphytes: some 5 - huckleberry                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+df.038:
+   description:              # now df.109
+   date: 2022-08-03
+   lat:  47.557215 N
+   long: 122.252907 W
+   notes:  
+   dbh:25in                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  6        #  >2"
+   branches.huge:  2         #  > 6"
+   groundContact:full support            # eg, 0.90
+   bark:intact                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay: round                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:round        # round, oval, depleted
+   moss: 70%                    # 0-10
+   epiphytes: no               # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+df.038:rick 2010
+   description:              # noteworthy features to help finding again in the future
+   date: 2022-08-03
+   lat:  47.
+   long: 122.
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+df.038:uproot on right side trail
+   description:last 20 years              # now df.110
+   date: 2022-08-03
+   lat:  47.554430 N
+   long: 122.249816 W
+   notes:  
+   dbh:37in                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  none        #  <2"
+   branches.large:  6/6 stubs        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:80%                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:round                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss: 50% (Top covered)                    # 0-10
+   epiphytes:blackberry and ferns (on root ball)                # 0-10
+   epiphyte.notes:0           # species, count, size, etc.
+
+
+df.038:tree broken over last <20 years
+   description:              # now df.111
+   date: 2022-08-03
+   lat:  47.554950 N
+   long: 122.250359 W
+   notes:part surrounded by lots of maples w/ moss  
+   dbh: 44in                     # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  8        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:intact                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:round                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:30% - on snag side/tip                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.038:2015 cored tree <20 years
+   description:              # now df.112
+   date: 2022-08-03
+   lat:  47.555437 N
+   long: 122.252991 W
+   notes:  
+   dbh: 70in                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  13        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact: lots of support            # eg, 0.90
+   bark:intact                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:round                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:10%                     # 0-10
+   epiphytes:1 small doug fir                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.038: 2006 – across from Tim’s sword ferns. 
+   description:              # now df.113
+   date: 2022-08-03
+   lat:  47.555922 N
+   long: 122.253216 W
+   notes:  
+   dbh: 24in                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  8        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay round:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:complete top coverage                     # 0-10
+   epiphytes: ferns in roots                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.038:
+   description:              # noteworthy features to help finding again in the future
+   date: 2022-08-03
+   lat:  47.
+   long: 122.
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.038:
+   description:              # now df.114
+   date: 2022-08-03
+   lat:  47.556761 N
+   long: 122.252367 W
+   notes:  
+   dbh:                      # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:            # eg, 0.90
+   bark:                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:        # round, oval, depleted
+   moss:                     # 0-10
+   epiphytes:                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+df.038:2020 plauge tree
+   description:              # now df.115
+   date: 2022-08-03
+   lat:  47.559312 N
+   long: 122.251211W
+   notes:  
+   dbh: 42                     # inches
+   fungalInfection:          # phaeolus, armillaria
+   failureMode:              # uproot, at roots, stump, snag
+   failureHeight:            # feet
+   directionOfFall:          # degrees
+   branches.small:  0        #  <2"
+   branches.large:  0        #  >2"
+   branches.huge:   0        #  > 6"
+   groundContact:supported            # eg, 0.90
+   bark:fell off on impact                     # eg, 1.0 for completely intact bark
+   wood.moisture.content:    # percentage moisture at 20' intervals
+   bottom.decay:             # of rootball or stump or snag, a decimal fraction
+   bottom.decay.notes:     
+   top.decay:                # find top where it lies, describe decay length and extent
+   top.decay.notes:
+   bottom.cross.section:     # round, oval, depleted
+   top.cross.section:round        # round, oval, depleted
+   moss:
+
+
+
+
+
+
+
+5%                     # 0-10
+   epiphytes: 0                # 0-10
+   epiphyte.notes:           # species, count, size, etc.
+
+

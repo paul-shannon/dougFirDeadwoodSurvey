@@ -1,0 +1,40 @@
+df.112:
+   description:  huge tree, cored during research prep, recent fall, barber chair
+   notes:   cma observed north-facing vertical crack develop over time
+   status:  active
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.555437
+   long: 122.252991
+   dbh: 70
+   yearOfDeath: 2015
+   yearOfDeath.evidence: inexact cma report
+   failureMode:    uproot
+   failureHeight:  -1
+   directionOfFall: -1
+   branches.small:  -1
+   branches.large:  -1
+   branches.huge:   -1
+   ground.contact:  -1
+   ground.contact.notes: 
+   sag:             -1
+   bark:            -1
+   bottom.decay:    -1
+   bottom.decay.notes:  NA
+   mid.decay:       -1
+   mid.decay.notes:  NA   
+   top.decay:       -1
+   top.decay.length: -1
+   top.decay.notes:  NA
+   bottom.cross.section: NA
+   top.cross.section: NA
+   epiphytes.meter.1:
+      moss: -1
+      leafCoverage: -1
+   epiphytes.meter.2:
+      moss: -1
+      leafCoverage: -1
+   epiphyte.species: NA
+   epiphytes.overall.moss: -1
+   epiphyte.overall:  -1
+   epiphyte.overall.notes: NA

@@ -1,0 +1,40 @@
+df.113:
+   description:  2006, woodpecker trail, across from Tim's sword ferns.
+   notes:  NA
+   status:  active
+   datedReferenceTree:  true
+   date: 2022-08-03
+   lat:  47.555922
+   long: 122.253216
+   dbh: 24
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:    NA
+   failureHeight:  -1
+   directionOfFall: -1
+   branches.small:  -1
+   branches.large:  -1
+   branches.huge:   -1
+   ground.contact:  -1
+   ground.contact.notes: 
+   sag:             -1
+   bark:            -1
+   bottom.decay:    -1
+   bottom.decay.notes:  NA
+   mid.decay:       -1
+   mid.decay.notes:  NA   
+   top.decay:       -1
+   top.decay.length: -1
+   top.decay.notes:  NA
+   bottom.cross.section: NA
+   top.cross.section: NA
+   epiphytes.meter.1:
+      moss: -1
+      leafCoverage: -1
+   epiphytes.meter.2:
+      moss: -1
+      leafCoverage: -1
+   epiphyte.species: NA
+   epiphytes.overall.moss: -1
+   epiphyte.overall:  -1
+   epiphyte.overall.notes: NA

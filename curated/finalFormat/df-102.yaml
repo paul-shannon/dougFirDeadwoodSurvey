@@ -14,18 +14,18 @@ df.102:
    failureHeight:  30
    directionOfFall: 33
    branches.small:  0
-   branches.large:  0
-   branches.huge:   0
-   ground.contact:  -1
-   ground.contact.notes: 
-   sag:             -1
-   bark:           1.0
+   branches.large:  3
+   branches.huge:   4
+   ground.contact:  1.0
+   ground.contact.notes:  with flat ground
+   sag:            0.2
+   bark:           0.95   # spongy
    bottom.decay:    0.0
    bottom.decay.notes:  NA
-   mid.decay:       0.0
+   mid.decay:       0.2
    mid.decay.notes:  NA   
-   top.decay:       0.0
-   top.decay.length: 0
+   top.decay:       0.5
+   top.decay.length: 10
    top.decay.notes:  decayed but still round
    bottom.cross.section: round
    top.cross.section: round
@@ -35,7 +35,7 @@ df.102:
    epiphytes.meter.2:
       moss: 0.05
       leafCoverage: 0.0
-   epiphyte.species: acma, qual, ruur
-   epiphytes.overall.moss: -1
-   epiphyte.overall:  -1
+   epiphyte.species: acma, qual, ruur, salal, trailing blackberry
+   epiphytes.overall.moss: 0.9
+   epiphyte.overall:  0.25
    epiphyte.overall.notes: 

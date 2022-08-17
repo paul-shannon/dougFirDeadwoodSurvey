@@ -9,32 +9,32 @@ df.108:
    dbh: 26
    yearOfDeath: 2008
    yearOfDeath.evidence: cma report
-   failureMode:   NA
-   failureHeight:  -1
-   directionOfFall: -1
-   branches.small:  -1
-   branches.large:  -1
-   branches.huge:   -1
-   ground.contact:  -1
+   failureMode:   rootFailure
+   failureHeight:  0
+   directionOfFall: 130
+   branches.small:  1
+   branches.large:  4
+   branches.huge:   5
+   ground.contact:  TBD
    ground.contact.notes: 
-   sag:             -1
-   bark:            -1
-   bottom.decay:    -1
+   sag:             0.2
+   bark:            0.9
+   bottom.decay:    0.3
    bottom.decay.notes:  NA
-   mid.decay:       -1
+   mid.decay:       TBD
    mid.decay.notes:  NA   
-   top.decay:       -1
-   top.decay.length: -1
+   top.decay:       0.5
+   top.decay.length: 10
    top.decay.notes:  NA
-   bottom.cross.section: NA
-   top.cross.section: NA
+   bottom.cross.section: TBD
+   top.cross.section: TBD
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1
    epiphytes.meter.2:
       moss: -1
       leafCoverage: -1
-   epiphyte.species: NA
-   epiphytes.overall.moss: -1
-   epiphyte.overall:  -1
+   epiphyte.species: red h, oregon grape, pomu
+   epiphytes.overall.moss: 0.5
+   epiphyte.overall:  0.1
    epiphyte.overall.notes: NA

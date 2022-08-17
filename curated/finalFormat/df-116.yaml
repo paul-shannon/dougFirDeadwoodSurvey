@@ -12,30 +12,30 @@ df.116:
    yearOfDeath.evidence:  inferred from logging history
    failureMode:    logging
    failureHeight:  3
-   directionOfFall: -1
-   branches.small:  -1
-   branches.large:  -1
-   branches.huge:   -1
-   ground.contact:  -1
+   directionOfFall: 150
+   branches.small:  0
+   branches.large:  0
+   branches.huge:   0
+   ground.contact:  1.0
    ground.contact.notes: 
-   sag:             -1
-   bark:            -1
-   bottom.decay:    -1
+   sag:             1.0
+   bark:            0.2
+   bottom.decay:    0.2
    bottom.decay.notes:  NA
-   mid.decay:       -1
+   mid.decay:       0.7
    mid.decay.notes:  NA   
-   top.decay:       -1
-   top.decay.length: -1
+   top.decay:       0.99
+   top.decay.length: 10
    top.decay.notes:  NA
-   bottom.cross.section: NA
-   top.cross.section: NA
+   bottom.cross.section: oval
+   top.cross.section: depleted
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1
    epiphytes.meter.2:
       moss: -1
       leafCoverage: -1
-   epiphyte.species: NA
-   epiphytes.overall.moss: -1
-   epiphyte.overall:  -1
+   epiphyte.species:  TBD
+   epiphytes.overall.moss: 0.5
+   epiphyte.overall:  1.0
    epiphyte.overall.notes: NA

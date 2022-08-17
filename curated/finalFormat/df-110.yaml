@@ -1,6 +1,6 @@
 df.110:
    description:  uproot east of sqebeqsed trail, fell in last 20 years,
-   notes:   need a better description
+   notes:   top decay is heavy, top 50' far along towards oval
    status:  active
    datedReferenceTree:  true
    date: 2022-08-03
@@ -10,31 +10,31 @@ df.110:
    yearOfDeath: 2002
    yearOfDeath.evidence: inexact cma report
    failureMode:    uproot
-   failureHeight:  -1
-   directionOfFall: -1
-   branches.small:  -1
-   branches.large:  -1
-   branches.huge:   -1
-   ground.contact:  -1
+   failureHeight:  0
+   directionOfFall: 323
+   branches.small:  0
+   branches.large:  11 # 7/11 3' or longer
+   branches.huge:   0
+   ground.contact:  0.8
    ground.contact.notes: 
-   sag:             -1
-   bark:            -1
-   bottom.decay:    -1
+   sag:             0.3
+   bark:            0.7
+   bottom.decay:    0.0
    bottom.decay.notes:  NA
-   mid.decay:       -1
+   mid.decay:       0.5
    mid.decay.notes:  NA   
-   top.decay:       -1
+   top.decay:       0.7
    top.decay.length: -1
    top.decay.notes:  NA
-   bottom.cross.section: NA
-   top.cross.section: NA
+   bottom.cross.section: round
+   top.cross.section: oval
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1
    epiphytes.meter.2:
       moss: -1
       leafCoverage: -1
-   epiphyte.species: NA
-   epiphytes.overall.moss: -1
-   epiphyte.overall:  -1
+   epiphyte.species: pomu, red huckleberry,
+   epiphytes.overall.moss: 0.6
+   epiphyte.overall:  0.1
    epiphyte.overall.notes: NA

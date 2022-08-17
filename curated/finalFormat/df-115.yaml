@@ -9,25 +9,25 @@ df.115:
    dbh: 42
    yearOfDeath: 2018
    yearOfDeath.evidence: cma report
-   failureMode:    NA
-   failureHeight:  -1
-   directionOfFall: -1
-   branches.small:  -1
-   branches.large:  -1
-   branches.huge:   -1
-   ground.contact:  -1
-   ground.contact.notes: 
-   sag:             -1
-   bark:            -1
-   bottom.decay:    -1
+   failureMode:    base
+   failureHeight:  0
+   directionOfFall: 265
+   branches.small:  0
+   branches.large:  0
+   branches.huge:   0
+   ground.contact:  1.0
+   ground.contact.notes: log all cut up, no real information here
+   sag:             0
+   bark:            0.2
+   bottom.decay:    0.2
    bottom.decay.notes:  NA
-   mid.decay:       -1
+   mid.decay:       0.1
    mid.decay.notes:  NA   
-   top.decay:       -1
-   top.decay.length: -1
+   top.decay:       0.1
+   top.decay.length: 10
    top.decay.notes:  NA
-   bottom.cross.section: NA
-   top.cross.section: NA
+   bottom.cross.section: round
+   top.cross.section: round
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1
@@ -35,6 +35,6 @@ df.115:
       moss: -1
       leafCoverage: -1
    epiphyte.species: NA
-   epiphytes.overall.moss: -1
-   epiphyte.overall:  -1
+   epiphytes.overall.moss: 0
+   epiphyte.overall:  0
    epiphyte.overall.notes: NA

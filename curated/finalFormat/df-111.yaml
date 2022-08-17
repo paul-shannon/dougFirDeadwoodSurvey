@@ -7,27 +7,27 @@ df.111:
    lat:  47.554950
    long: 122.250359
    dbh: 44
-   yearOfDeath:  2002
-   yearOfDeath.evidence: inexact cma report
-   failureMode:    uproot
-   failureHeight:  -1
-   directionOfFall: -1
-   branches.small:  -1
-   branches.large:  -1
-   branches.huge:   -1
-   ground.contact:  -1
+   yearOfDeath:  2006
+   yearOfDeath.evidence:  cma report
+   failureMode:    snag
+   failureHeight:  30
+   directionOfFall: 30
+   branches.small:  0
+   branches.large:  8  # 6/8 are long
+   branches.huge:   0
+   ground.contact:  0.1
    ground.contact.notes: 
-   sag:             -1
-   bark:            -1
-   bottom.decay:    -1
+   sag:             0
+   bark:            1
+   bottom.decay:    0
    bottom.decay.notes:  NA
-   mid.decay:       -1
+   mid.decay:       0.1
    mid.decay.notes:  NA   
-   top.decay:       -1
-   top.decay.length: -1
+   top.decay:       0.5
+   top.decay.length: 10
    top.decay.notes:  NA
-   bottom.cross.section: NA
-   top.cross.section: NA
+   bottom.cross.section: round
+   top.cross.section: TBD
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1
@@ -35,6 +35,6 @@ df.111:
       moss: -1
       leafCoverage: -1
    epiphyte.species: NA
-   epiphytes.overall.moss: -1
-   epiphyte.overall:  -1
+   epiphytes.overall.moss: 0.5
+   epiphyte.overall:  0
    epiphyte.overall.notes: NA

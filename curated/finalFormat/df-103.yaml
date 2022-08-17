@@ -11,20 +11,20 @@ df.103:
    yearOfDeath.evidence: cma report
    failureMode:   uproot
    failureHeight:  0
-   directionOfFall: -1
-   branches.small:  -1
-   branches.large:  -1
-   branches.huge:   -1
-   ground.contact:  -1
+   directionOfFall: 355
+   branches.small:  4
+   branches.large:  7
+   branches.huge:   5
+   ground.contact:  TBD
    ground.contact.notes: no sign of sag, 20" of air at east edge of trail where section was removed
-   sag:             -1
+   sag:             0.1
    bark: 1.0
-   bottom.decay:    -1
+   bottom.decay:    0
    bottom.decay.notes:  NA
-   mid.decay:       -1
+   mid.decay:       0
    mid.decay.notes:  NA   
-   top.decay:       -1
-   top.decay.length: -1
+   top.decay:       0.2
+   top.decay.length: 10
    top.decay.notes:  decayed but still round
    bottom.cross.section: round
    top.cross.section: round
@@ -35,6 +35,6 @@ df.103:
       moss: -1
       leafCoverage: -1
    epiphyte.species: acma, qual, ruur
-   epiphytes.overall.moss: -1
-   epiphyte.overall:  -1
-   epiphyte.overall.notes: 
+   epiphytes.overall.moss: 0.9
+   epiphyte.overall:  0.3
+   epiphyte.overall.notes: all epiphytes on rootball, don't count these as age-predicting

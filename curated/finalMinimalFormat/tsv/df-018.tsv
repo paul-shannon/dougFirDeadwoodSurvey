@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.018	47.556937	-122.250766	52	2018	gail johnson report	snag	17	-1	1	11	1	1	0	0	reported by gail and tim, dec 2018	exemplary newly fallen tree	incomplete	TRUE	2022-07-26

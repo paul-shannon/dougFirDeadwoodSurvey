@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.028	47.558593	-122.2507669	58	-1	NA	NA	-1	-1	-1	-1	-1	-1	-1	-1	barber chair/lots of burn/several different fungi	invasive blackberry	incomplete	FALSE	2022-08-01

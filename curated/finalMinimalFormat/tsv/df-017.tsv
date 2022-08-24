@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.017	47.555057	-122.252316	48	-1	NA	snag	-1	-1	-1	-1	-1	-1	-1	-1	NA	NA	incomplete	FALSE	2022-07-25

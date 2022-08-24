@@ -1,0 +1,20 @@
+df.023:
+   description: fell across trail, sqebeqsed dogleg,thin tall barber chair back
+   notes:  NA
+   status:  incomplete
+   datedReferenceTree: FALSE
+   date: 2022-07-27
+   lat: 47.558460
+   long: 122.251971
+   dbh: -1
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: snag
+   failureHeight:  27
+   directionOfFall:  -1
+   branches.small: -1
+   branches.large: -1
+   branches.huge: -1
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

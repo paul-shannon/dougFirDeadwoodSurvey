@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.116	47.55913	-122.250886	33	1935	inferred from logging history	logging	3	150	0	0	0	0.2	1	1	stump with full log, presumed to be mid 1930's, rare old reference tree	3 mature red huckleberries, ferns.  large cut stump, might be broader than butt of log.  odd that tree was cut, but log not removed.	complete	TRUE	2022-07-28

@@ -1,0 +1,20 @@
+df.017:
+   description: NA
+   notes:  NA
+   status:  incomplete
+   datedReferenceTree: FALSE
+   date: 2022-07-25
+   lat: 47.555057
+   long: 122.252316
+   dbh: 48
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: snag
+   failureHeight:  -1
+   directionOfFall:  -1
+   branches.small: -1
+   branches.large: -1
+   branches.huge: -1
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

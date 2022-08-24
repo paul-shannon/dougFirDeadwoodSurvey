@@ -1,0 +1,20 @@
+df.106:
+   description:  giant, barber chair, burned bark, fell parallel to trail pointing east
+   notes:  eggy claimed 1993 inaugural day storm for this tree, cma 2006.  redo collapse & epiphyte
+   status:  incomplete
+   datedReferenceTree: TRUE
+   date: 2022-08-03
+   lat:  47.554962
+   long: 122.252279
+   dbh: 48
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode:   snag
+   failureHeight:   12
+   directionOfFall: 80
+   branches.small:  1
+   branches.large:  6
+   branches.huge:   12
+   bark: 1.0
+   collapse: 0.1
+   epiphyte.overall: 0.3

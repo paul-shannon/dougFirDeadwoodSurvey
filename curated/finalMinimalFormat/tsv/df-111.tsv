@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.111	47.55495	-122.250359	44	2006	cma report	snag	30	30	0	8	0	1	0.1	0	west side of sqebeqsed, 100 feet from junction with andrews bay trail	surrounded by lots of maples with moss	complete	TRUE	2022-08-03

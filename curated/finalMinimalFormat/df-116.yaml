@@ -1,0 +1,22 @@
+df.116:
+   description:  stump with full log, presumed to be mid 1930's, rare old reference tree
+   notes:  3 mature red huckleberries, ferns.  large cut stump, might be broader
+       than butt of log.  odd that tree was cut, but log not removed.
+   status:  complete
+   datedReferenceTree: TRUE
+   date: 2022-07-28
+   lat:  47.559130
+   long: 122.250886
+   dbh: 33
+   yearOfDeath: 1935
+   yearOfDeath.evidence:  inferred from logging history
+   failureMode:    logging
+   failureHeight:  3
+   directionOfFall: 150
+   branches.small:  0
+   branches.large:  0
+   branches.huge:   0
+   bark: 0.2
+   collapse: 1.0
+   epiphyte.overall: 1.0
+

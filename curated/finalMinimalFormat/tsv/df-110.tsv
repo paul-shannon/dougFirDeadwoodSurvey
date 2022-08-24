@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.110	47.55443	-122.249816	37	2002	inexact cma report	uproot	0	323	0	11	0	0.7	0.3	0.1	uproot east of sqebeqsed trail, fell in last 20 years,	top decay is heavy, top 50' far along towards oval	complete	TRUE	2022-08-03

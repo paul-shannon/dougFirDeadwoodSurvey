@@ -1,0 +1,20 @@
+df.030:
+   description: fell across trail, sqebeqsed trail north
+   notes:  NA
+   status:  incomplete
+   datedReferenceTree: FALSE
+   date: 2022-08-01
+   lat:  47.559278
+   long: 122.249986
+   dbh: 48
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: stump
+   failureHeight:  2
+   directionOfFall:  -1
+   branches.small: -1
+   branches.large: -1
+   branches.huge: -1
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

@@ -1,0 +1,20 @@
+df.049:
+   description: NA
+   notes:  NA
+   status:  incomplete
+   datedReferenceTree: FALSE
+   date: 2022-08-10
+   lat:  47.559942
+   long: 122.2500431
+   dbh:  30
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: NA
+   failureHeight:  -1
+   directionOfFall:  -1
+   branches.small: 0
+   branches.large: 5
+   branches.huge: 0
+   bark: 0.4
+   collapse: -1
+   epiphyte.overall: -1

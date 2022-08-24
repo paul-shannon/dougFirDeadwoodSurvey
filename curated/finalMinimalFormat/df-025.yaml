@@ -1,0 +1,20 @@
+df.025:
+   description: near woodpecker sculpture tree, broken off very near base
+   notes:  NA
+   status:  incomplete
+   datedReferenceTree: FALSE
+   date: 2022-07-27
+   lat:  47.558855
+   long: 122.250952
+   dbh: 28
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: NA
+   failureHeight:  -1
+   directionOfFall:  -1
+   branches.small: -1
+   branches.large: -1
+   branches.huge: -1
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

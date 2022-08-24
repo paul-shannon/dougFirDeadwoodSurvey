@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.101	47.554323	-122.250226	47	2006	cma report	uproot	0	33	4	5	6	1	0	0.3	grafitti removal hanukkah tree, southernmost landmark tree	early paint removed, hacked up.  crossed trail, fell west to east	complete	TRUE	2022-08-03

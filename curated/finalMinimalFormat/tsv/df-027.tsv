@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.027	47.55913	-122.250886	33	1935	inferred from logging history	logging	3	-1	-1	-1	-1	-1	-1	-1	cut stump with surviving log	3 mature red huckleberries, ferns.	incomplete	TRUE	2022-07-28

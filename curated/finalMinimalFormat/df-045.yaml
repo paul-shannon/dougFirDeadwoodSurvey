@@ -1,0 +1,20 @@
+df.045:
+   description: another steep downhill from sqebeqsed
+   notes:  NA
+   status:  incomplete
+   datedReferenceTree: FALSE
+   date: 2022-08-10
+   lat:  47.559802
+   long: 122.249786
+   dbh:  24
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: NA
+   failureHeight:  -1
+   directionOfFall:  -1
+   branches.small: 0
+   branches.large: 3
+   branches.huge: 0
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

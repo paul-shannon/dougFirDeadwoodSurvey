@@ -1,0 +1,20 @@
+df.019:
+   description:  interior of windfall trail, the hollow log tree
+   notes: NA
+   status:  incomplete
+   datedReferenceTree: FALSE
+   date: 2022-07-26
+   lat: 47.557247
+   long: 122.251254
+   dbh: 52
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: roots
+   failureHeight:  0
+   directionOfFall:  -1
+   branches.small: -1
+   branches.large: -1
+   branches.huge: -1
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

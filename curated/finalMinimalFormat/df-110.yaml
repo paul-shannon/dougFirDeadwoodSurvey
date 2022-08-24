@@ -1,0 +1,21 @@
+df.110:
+   description: uproot east of sqebeqsed trail, fell in last 20 years,
+   notes:  top decay is heavy, top 50' far along towards oval
+   status:  complete
+   datedReferenceTree: TRUE
+   date: 2022-08-03
+   lat:  47.554430
+   long: 122.249816
+   dbh: 37
+   yearOfDeath: 2002
+   yearOfDeath.evidence: inexact cma report
+   failureMode:    uproot
+   failureHeight:  0
+   directionOfFall: 323
+   branches.small:  0
+   branches.large:  11 # 7/11 3' or longer
+   branches.huge:   0
+   bark: 0.7
+   collapse: 0.3
+   epiphyte.overall: 0.1
+   

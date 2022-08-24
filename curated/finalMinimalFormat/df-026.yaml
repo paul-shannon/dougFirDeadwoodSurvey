@@ -1,0 +1,20 @@
+df.026:
+   description: not far east from the woodpecker sculpture hemlock
+   notes: Himalayan blackberry needs removing
+   status: incomplete
+   datedReferenceTree: FALSE
+   date: 2022-07-28
+   lat:  47.559058
+   long: 122.250842
+   dbh: 31
+   yearOfDeath: -1
+   yearOfDeath.evidence: NA
+   failureMode: uproot
+   failureHeight:  0
+   directionOfFall:  -1
+   branches.small: -1
+   branches.large: -1
+   branches.huge: -1
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

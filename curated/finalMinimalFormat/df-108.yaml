@@ -1,0 +1,20 @@
+df.108:
+   description: adjacent to a hemlock, 200 feet north along the erratic trail
+   notes:  at top of first rise on the erratic trail heading north from woodpecker trail
+   status:  complete
+   datedReferenceTree: TRUE
+   date: 2022-08-03
+   lat:  47.556548 
+   long: 122.252704
+   dbh: 26
+   yearOfDeath: 2008
+   yearOfDeath.evidence: cma report
+   failureMode:   roots
+   failureHeight:  0
+   directionOfFall: 130
+   branches.small:  1
+   branches.large:  4
+   branches.huge:   5
+   bark: 0.9
+   collapse: 0.2
+   epiphyte.overall: 0.1

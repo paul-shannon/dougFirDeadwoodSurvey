@@ -1,0 +1,2 @@
+id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
+df.108	47.556548	-122.252704	26	2008	cma report	roots	0	130	1	4	5	0.9	0.2	0.1	adjacent to a hemlock, 200 feet north along the erratic trail	at top of first rise on the erratic trail heading north from woodpecker trail	complete	TRUE	2022-08-03

@@ -1,0 +1,20 @@
+df.101:
+   description: grafitti removal hanukkah tree, southernmost landmark tree
+   notes:  early paint removed, hacked up.  crossed trail, fell west to east
+   status:  complete
+   datedReferenceTree: TRUE
+   date: 2022-08-03
+   lat:  47.554323
+   long: 122.250226
+   dbh: 47
+   yearOfDeath: 2006
+   yearOfDeath.evidence: cma report
+   failureMode: uproot
+   failureHeight:  0
+   directionOfFall:  33
+   branches.small: 4
+   branches.large: 5
+   branches.huge: 6
+   bark: 1.0
+   collapse: 0
+   epiphyte.overall: 0.3

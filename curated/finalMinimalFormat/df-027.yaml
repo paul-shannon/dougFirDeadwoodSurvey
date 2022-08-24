@@ -1,0 +1,20 @@
+df.027:
+   description: cut stump with surviving log
+   notes:  3 mature red huckleberries, ferns.
+   status:  incomplete
+   datedReferenceTree: TRUE
+   date: 2022-07-28
+   lat:  47.559130
+   long: 122.250886
+   dbh: 33
+   yearOfDeath: 1935 
+   yearOfDeath.evidence:  inferred from logging history
+   failureMode:   logging
+   failureHeight: 3
+   directionOfFall:  -1
+   branches.small: -1
+   branches.large: -1
+   branches.huge: -1
+   bark: -1
+   collapse: -1
+   epiphyte.overall: -1

@@ -1,20 +1,20 @@
 df.031:
    description: ancient stump, mostly decayed log, 100 ft east downslope from sqebeqsed
-   notes:  NA
-   status:  incomplete
+   notes:  with photo
+   status:  complete
    datedReferenceTree: FALSE
-   date: 2022-08-01
+   date: 2022-08-25
    lat:  47.559462
    long: 122.249671
    dbh: 52
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   failureMode: snag
+   failureHeight:  6
+   directionOfFall: 80
+   branches.small: 0
+   branches.large: 0
+   branches.huge: 0
+   bark: 0
+   collapse: 2.0
+   epiphyte.overall: 0.8

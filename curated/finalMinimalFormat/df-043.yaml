@@ -1,20 +1,20 @@
 df.043:
    description: steep downhill east of sqebeqsed
    notes:  NA
-   status:  incomplete
+   status:  complete
    datedReferenceTree: FALSE
-   date: 2022-08-10
-   lat:  47.559640
-   long: 122.249679
+   date: 2022-08-25
+   lat:  47.559688
+   long: 122.249834
    dbh:  58
    yearOfDeath: -1
    yearOfDeath.evidence: NA
    failureMode: snag
    failureHeight:  8
-   directionOfFall:  -1
+   directionOfFall: 105
    branches.small: 0
    branches.large: 2
    branches.huge: 3
-   bark: 0.9
-   collapse: -1
-   epiphyte.overall: -1
+   bark: 0.7
+   collapse: 0.6
+   epiphyte.overall: 0.2

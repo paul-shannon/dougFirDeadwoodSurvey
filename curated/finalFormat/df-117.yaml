@@ -1,5 +1,5 @@
 df.117:
-   description: tall barber chair recent fall, off windfall trail
+   description: tall barber chair, 12/18, off windfall trail, fractured on impact
    notes: gail johnson visited this the day after fall in december 2018
    status:  active
    datedReferenceTree:  true
@@ -11,30 +11,30 @@ df.117:
    yearOfDeath.evidence:  gail johnson report
    failureMode:    snag
    failureHeight:  17
-   directionOfFall: -1
+   directionOfFall: 45
    branches.small:  1
    branches.large:  11
-   branches.huge:   -1
-   ground.contact:  -1
+   branches.huge:   1
+   ground.contact:  0.7
    ground.contact.notes: 
-   sag:             -1
+   sag:             0.0
    bark:            1.0
-   bottom.decay:    -1
+   bottom.decay:    0
    bottom.decay.notes:  NA
-   mid.decay:       -1
+   mid.decay:       0
    mid.decay.notes:  NA   
-   top.decay:       -1
-   top.decay.length: -1
+   top.decay:       0
+   top.decay.length: 10
    top.decay.notes:  NA
    bottom.cross.section: NA
    top.cross.section: NA
    epiphytes.meter.1:
-      moss: -1
-      leafCoverage: -1
+      moss: 0
+      leafCoverage: 0
    epiphytes.meter.2:
-      moss: -1
-      leafCoverage: -1
+      moss: 0
+      leafCoverage: 0
    epiphyte.species: NA
    epiphytes.overall.moss: 0
    epiphyte.overall:  0
-   epiphyte.overall.notes: NA
+   epiphyte.overall.notes: layered over ruur

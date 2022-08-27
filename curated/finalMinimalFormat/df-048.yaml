@@ -4,17 +4,17 @@ df.048:
    status:  incomplete
    datedReferenceTree: FALSE
    date: 2022-08-10
-   lat:  47.559828
-   long: 122.250427
+   lat:  47.559818
+   long: 122.250417
    dbh:  36
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
+   failureMode: roots
+   failureHeight:  0
+   directionOfFall:  330
    branches.small: 0
    branches.large: 0
    branches.huge: 0
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   bark: 0
+   collapse: 2.2
+   epiphyte.overall: 0

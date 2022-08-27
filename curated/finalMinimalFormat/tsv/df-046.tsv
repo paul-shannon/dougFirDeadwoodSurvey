@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.046	47.559828	-122.250427	36	-1	NA	NA	-1	-1	0	0	0	-1	-1	-1	3 similarly sized logs upslope west from sqebeqsed	difficult to assess	incomplete	FALSE	2022-08-10
+df.046	47.559828	-122.250427	36	-1	NA	uproot	0	56	0	1	0	1	2.5	0.5	one of 2 similarly sized logs upslope west from sqebeqsed	difficult to assess.  bark actually 1? not 0?  possibly two stems from close to bottom	complete	FALSE	2022-08-10

@@ -1,3 +1,4 @@
+# TBD: epiphtye species
 df.116:
    description: stump with full log, presumed to be mid 1930's, rare old reference tree
    notes: 3 mature red huckleberries, ferns.  large cut stump, might be broader
@@ -35,7 +36,7 @@ df.116:
    epiphytes.meter.2:
       moss: -1
       leafCoverage: -1
-   epiphyte.species:  TBD
+   epiphyte.species:  NA
    epiphytes.overall.moss: 0.5
    epiphyte.overall:  1.0
    epiphyte.overall.notes: NA

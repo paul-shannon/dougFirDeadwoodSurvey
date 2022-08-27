@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.020	47.554582	-122.250449	61	-1	NA	roots	0	49	-1	-1	-1	-1	-1	-1	uproot facing roughly north, 60' west of sqebeqsed tree, midway towards hatchery trail	the Leila tree	incomplete	FALSE	2022-07-26
+df.020	47.554582	-122.250449	61	-1	NA	roots	0	49	0	8	2	0.4	0.2	0.3	uproot facing roughly north, 60' west of sqebeqsed tree, midway towards hatchery trail	the Leila tree	complete	FALSE	2022-07-26

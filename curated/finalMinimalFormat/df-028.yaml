@@ -1,7 +1,7 @@
 df.028:
    description: barber chair/lots of burn/several different fungi
-   notes:  invasive blackberry
-   status:  incomplete
+   notes:  invasive blackberry needs removal
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-08-01
    lat:  47.558593
@@ -9,12 +9,12 @@ df.028:
    dbh: 58
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   failureMode: snag
+   failureHeight:  35
+   directionOfFall:  6
+   branches.small: 0
+   branches.large: 1
+   branches.huge: 7
+   bark: 0.9
+   collapse: 0.7
+   epiphyte.overall: 0.1

@@ -1,7 +1,7 @@
 df.046:
-   description: 3 similarly sized logs upslope west from sqebeqsed
-   notes:  difficult to assess
-   status:  incomplete
+   description: one of 2 similarly sized logs upslope west from sqebeqsed
+   notes:  difficult to assess.  bark actually 1? not 0?  possibly two stems from close to bottom
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-08-10
    lat:  47.559828
@@ -9,12 +9,12 @@ df.046:
    dbh:  36
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
+   failureMode: uproot
+   failureHeight:  0
+   directionOfFall: 56
    branches.small: 0
-   branches.large: 0
+   branches.large: 1
    branches.huge: 0
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   bark: 1
+   collapse: 2.5
+   epiphyte.overall: 0.5

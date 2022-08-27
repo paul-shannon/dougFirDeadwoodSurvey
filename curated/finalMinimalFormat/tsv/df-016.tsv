@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.016	47.556812	-122.251826	45	-1	NA	uproot	0	-1	-1	-1	-1	-1	-1	-1	NA	NA	incomplete	FALSE	2022-07-19
+df.016	47.556812	-122.251826	45	-1	NA	uproot	0	346	0	0	0	1	0.1	0	west side of trail	NA	complete	FALSE	2022-07-19

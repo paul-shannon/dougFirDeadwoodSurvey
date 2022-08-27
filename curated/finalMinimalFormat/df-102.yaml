@@ -17,5 +17,5 @@ df.102:
    branches.large: 3
    branches.huge: 4
    bark: 0.95
-   collapse: -1
+   collapse: 0.1
    epiphyte.overall: 0.25

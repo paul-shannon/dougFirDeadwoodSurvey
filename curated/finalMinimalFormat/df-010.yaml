@@ -1,7 +1,7 @@
 df.010:
-   description: NA
+   description: beautiful brown/red cubical rot stump, rotten log to the west, many old epiphytes
    notes:  NA
-   status:  incomplete
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-07-19
    lat:  47.555185
@@ -9,12 +9,12 @@ df.010:
    dbh: 62
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   failureMode: snag
+   failureHeight:  6
+   directionOfFall:  220
+   branches.small: 0
+   branches.large: 0
+   branches.huge: 0
+   bark: 0.3
+   collapse: 0.6
+   epiphyte.overall: 0.9

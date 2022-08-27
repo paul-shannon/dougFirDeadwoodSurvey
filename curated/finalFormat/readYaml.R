@@ -6,13 +6,17 @@ options(digits=9)
 
 
 if(interactive()){
-    base.name <- "df-117"
+    base.name <- "df-112.yaml"
   }else{
       args <- commandArgs(trailingOnly=TRUE)
       if(length(args) != 1)
          stop("usage Rscript readYaml.R df-xxx")
       base.name <- args[1]
       }
+
+if(grepl(".yaml", base.name, fixed=TRUE))
+    base.name <- sub(".yaml", "", base.name, fixed=TRUE)
+
 f <- sprintf("%s.yaml", base.name)
 stopifnot(file.exists(f))
 x <- yaml.load(readLines(f, n=-1))
@@ -243,10 +247,10 @@ extract <- function(el)
 
 } # function extract
 #----------------------------------------------------------------------------------------------------
-run <- function()
+run.one <- function()
 {
     valid(base.name, x[[1]])
-    browser()
+    #    browser()
     tbl <- extract(x[[1]])
     #rows <- lapply(x, extract)
     #printf("row count: %d", length(rows))
@@ -257,6 +261,8 @@ run <- function()
     f.out <- sprintf("tsv/%s.tsv", base.name)
     write.table(tbl, file=f.out, sep="\t", row.names=FALSE, col.names=TRUE, quote=FALSE)
     print(as.data.frame(t(tbl)))
+    printf("   wrote %s", f.out)
 
-} # run
+} # run.one
 #----------------------------------------------------------------------------------------------------
+if(!interactive()) run.one()

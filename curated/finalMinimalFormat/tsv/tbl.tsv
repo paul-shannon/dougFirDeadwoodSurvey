@@ -1,43 +1,32 @@
-id	lat	long	dbh	age	directionOfFall	branches.small	branches.large	branches.huge	collapse	bark	yearOfDeath	failureMode	failureHeight	epiphyte.overall	status	datedReferenceTree	date	yearOfDeath.evidence	description	notes
-df.009	47.554958	-122.250409	31	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.010	47.555185	-122.2505332	62	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.011	47.555232	-122.250506	25	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.012	47.555292	-122.250287	46	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.013	47.555663	-122.2503771	25	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.014	47.555345	-122.250194	19	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.015	47.555848	-122.250872	26	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.016	47.556812	-122.251826	45	-1	-1	-1	-1	-1	-1	-1	-1	uproot	0	-1	incomplete	FALSE	2022-07-19	NA	NA	NA
-df.017	47.555057	-122.252316	48	-1	-1	-1	-1	-1	-1	-1	-1	snag	-1	-1	incomplete	FALSE	2022-07-25	NA	NA	NA
-df.018	47.556937	-122.250766	52	4	-1	1	11	1	0	1	2018	snag	17	0	incomplete	TRUE	2022-07-26	gail johnson report	reported by gail and tim, dec 2018	exemplary newly fallen tree
-df.019	47.557247	-122.251254	52	-1	-1	-1	-1	-1	-1	-1	-1	roots	0	-1	incomplete	FALSE	2022-07-26	NA	interior of windfall trail, the hollow log tree	NA
-df.020	47.554582	-122.250449	61	-1	49	-1	-1	-1	-1	-1	-1	roots	0	-1	incomplete	FALSE	2022-07-26	NA	uproot facing roughly north, 60' west of sqebeqsed tree, midway towards hatchery trail	the Leila tree
-df.021	47.554563	-122.25049	-1	-1	-1	-1	-1	-1	-1	-1	-1	roots	0	-1	incomplete	FALSE	2022-07-26	NA	right next to the leila tree	NA
-df.022	47.554122	-122.250352	39	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-27	NA	NA	assessed with tim billo's oversight and suggestions
-df.023	47.55846	-122.251971	-1	-1	-1	-1	-1	-1	-1	-1	-1	snag	27	-1	incomplete	FALSE	2022-07-27	NA	fell across trail, sqebeqsed dogleg,thin tall barber chair back	NA
-df.024	47.558787	-122.250994	41	-1	-1	-1	-1	-1	-1	-1	-1	uproot	0	-1	incomplete	FALSE	2022-07-27	NA	north of bench, other side of trail, big maple & hemlock growing out of root ball	NA
-df.025	47.558855	-122.250952	28	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-07-27	NA	near woodpecker sculpture tree, broken off very near base	NA
-df.026	47.559058	-122.250842	31	-1	-1	-1	-1	-1	-1	-1	-1	uproot	0	-1	incomplete	FALSE	2022-07-28	NA	not far east from the woodpecker sculpture hemlock	Himalayan blackberry needs removing
-df.027	47.55913	-122.250886	33	87	-1	-1	-1	-1	-1	-1	1935	logging	3	-1	incomplete	TRUE	2022-07-28	inferred from logging history	cut stump with surviving log	3 mature red huckleberries, ferns.
-df.028	47.558593	-122.2507669	58	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-08-01	NA	barber chair/lots of burn/several different fungi	invasive blackberry
-df.029	47.55908	-122.25012	41	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-08-01	NA	in sqebeqsed (upper) hemlock graveyard	lots of black on bark which is not burn
-df.030	47.559278	-122.249986	48	-1	-1	-1	-1	-1	-1	-1	-1	stump	2	-1	incomplete	FALSE	2022-08-01	NA	fell across trail, sqebeqsed trail north	NA
-df.031	47.559462	-122.249671	52	-1	-1	-1	-1	-1	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-08-01	NA	ancient stump, mostly decayed log, 100 ft east downslope from sqebeqsed	NA
-df.043	47.55964	-122.249679	58	-1	-1	0	2	3	-1	0.9	-1	snag	8	-1	incomplete	FALSE	2022-08-10	NA	steep downhill east of sqebeqsed	NA
-df.044	47.559692	-122.249824	38	-1	-1	0	0	2	-1	0.9	-1	uproot	0	-1	incomplete	FALSE	2022-08-10	NA	steep downhill from sqebeqsed	NA
-df.045	47.559802	-122.249786	24	-1	-1	0	3	0	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-08-10	NA	another steep downhill from sqebeqsed	NA
-df.046	47.559828	-122.250427	36	-1	-1	0	0	0	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-08-10	NA	3 similarly sized logs upslope west from sqebeqsed	difficult to assess
-df.047	47.559828	-122.250427	36	-1	-1	0	0	0	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-08-10	NA	3 similarly sized logs upslope west from sqebeqsed, 46-48	difficult to assess
-df.048	47.559828	-122.250427	36	-1	-1	0	0	0	-1	-1	-1	NA	-1	-1	incomplete	FALSE	2022-08-10	NA	3 similarly sized logs upslope west from sqebeqsed	difficult to assess
-df.049	47.559942	-122.2500431	30	-1	-1	0	5	0	-1	0.4	-1	NA	-1	-1	incomplete	FALSE	2022-08-10	NA	NA	NA
-df.050	47.55955	-122.250427	72	12	-1	2	5	20	0	1	2010	snag	30	0	incomplete	FALSE	2022-08-10	paul shannon report	recent fall east across trail, w/in 10 years, huge tree	2010 - 2014?
-df.101	47.554323	-122.250226	47	16	33	4	5	6	0	1	2006	uproot	0	0.3	complete	TRUE	2022-08-03	cma report	grafitti removal hanukkah tree, southernmost landmark tree	early paint removed, hacked up.  crossed trail, fell west to east
-df.102	47.554492	-122.250272	60	16	33	0	3	4	-1	0.95	2006	snag	30	0.25	incomplete	TRUE	2022-08-03	cma report	30' snag, west side of trail, fell east	small conifer growing out of minor barber chair, second known-date fallen fir when walking north on the sqebeqsed
-df.103	47.554918	-122.251431	35	16	355	4	7	9	0.1	1	2006	uproot	0	0	complete	TRUE	2022-08-03	cma report	fenced tree at intersection of andrew's bay and woodpecker trails	fenced off to discourage climbing, top is north across the trail
-df.106	47.554962	-122.252279	48	16	80	1	6	12	0.1	1	2006	snag	12	0.3	incomplete	TRUE	2022-08-03	cma report	giant, barber chair, burned bark, fell parallel to trail pointing east	eggy claimed 1993 inaugural day storm for this tree, cma 2006.  redo collapse & epiphyte
-df.108	47.556548	-122.252704	26	14	130	1	4	5	0.2	0.9	2008	roots	0	0.1	complete	TRUE	2022-08-03	cma report	adjacent to a hemlock, 200 feet north along the erratic trail	at top of first rise on the erratic trail heading north from woodpecker trail
-df.110	47.55443	-122.249816	37	20	323	0	11	0	0.3	0.7	2002	uproot	0	0.1	complete	TRUE	2022-08-03	inexact cma report	uproot east of sqebeqsed trail, fell in last 20 years,	top decay is heavy, top 50' far along towards oval
-df.111	47.55495	-122.250359	44	16	30	0	8	0	0.1	1	2006	snag	30	0	complete	TRUE	2022-08-03	cma report	west side of sqebeqsed, 100 feet from junction with andrews bay trail	surrounded by lots of maples with moss
-df.112	47.555437	-122.252991	70	7	136	0	0	7	0	1	2015	snag	14	0.2	complete	TRUE	2022-08-03	inexact cma report	huge tree, cored during research prep, recent fall, barber chair	cma observed north-facing vertical crack develop over time
-df.113	47.555922	-122.253216	24	16	355	1	4	0	0.2	1	2006	uproot	0	0.1	complete	TRUE	2022-08-03	cma report	2006, woodpecker trail, across from Tim's sword ferns.	NA
-df.115	47.559312	-122.251211	42	4	265	0	0	0	0	0.2	2018	roots	0	0	complete	FALSE	2022-08-03	cma report	plague (covid) tree, just east of huckleberry tree, south of hemlock graveyard	useless for dating; top of log all cut up, no visible attributes, bark shed
-df.116	47.55913	-122.250886	33	87	150	0	0	0	1	0.2	1935	logging	3	1	complete	TRUE	2022-07-28	inferred from logging history	stump with full log, presumed to be mid 1930's, rare old reference tree	3 mature red huckleberries, ferns.  large cut stump, might be broader than butt of log.  odd that tree was cut, but log not removed.
+id	lat	long	dbh	directionOfFall	branches.small	branches.large	branches.huge	collapse	bark	yearOfDeath	failureMode	failureHeight	epiphyte.overall	status	datedReferenceTree	date	yearOfDeath.evidence	description	notes
+df.009	47.554958	-122.250409	31	256	0	0	0	0.95	0.1	-1	snag	20	0.1	complete	FALSE	2022-07-19	NA	much decayed snag close to trail	NA
+df.010	47.555185	-122.2505332	62	220	0	0	0	0.6	0.3	-1	snag	6	0.9	complete	FALSE	2022-07-19	NA	beautiful brown/red cubical rot stump, rotten log to the west, many old epiphytes	NA
+df.011	47.555232	-122.250506	36	264	0	0	0	0.7	0.5	-1	snag	30	0.3	complete	FALSE	2022-07-19	NA	massive barber chair 40 ft east of trail	NA
+df.013	47.555395	-122.250269	28	4	0	4	0	0.6	0.05	-1	uproot	0	0	complete	FALSE	2022-07-19	NA	nearly barkless, long perfect sag at top of Hatchery Hollow	NA
+df.015	47.555848	-122.250872	26	67	2	5	3	0.8	0.1	-1	stump	1	0.1	complete	FALSE	2022-07-19	NA	super soft at top/butt rot supported at base	NA
+df.016	47.556812	-122.251826	45	346	0	0	0	0.1	1	-1	uproot	0	0	complete	FALSE	2022-07-19	NA	west side of trail	NA
+df.018	47.556937	-122.250766	52	55	1	11	1	0	1	2018	snag	17	0	complete	TRUE	2022-07-26	gail johnson report	reported by gail and tim, dec 2018	exemplary newly fallen tree
+df.019	47.557247	-122.251254	52	12	0	0	0	0.3	0.9	-1	roots	0	0.3	complete	FALSE	2022-07-26	NA	interior of windfall trail, the big hollow log tree	popular walking-on trail, otherwise might be more epiphytes
+df.020	47.554582	-122.250449	61	49	0	8	2	0.2	0.4	-1	roots	0	0.3	complete	FALSE	2022-07-26	NA	uproot facing roughly north, 60' west of sqebeqsed tree, midway towards hatchery trail	the Leila tree
+df.023	47.55846	-122.251971	30	161	0	6	2	0	0.9	-1	snag	27	0	complete	FALSE	2022-07-27	NA	fell across trail, sqebeqsed dogleg, thin tall barber chair back	NA
+df.024	47.558787	-122.250994	41	327	0	2	0	0.7	0.4	-1	uproot	0	0.2	complete	FALSE	2022-07-27	NA	north of bench, other side of trail, big maple & hemlock growing out of root ball	lots of salal, top is significantly decayed
+df.025	47.558855	-122.250952	28	310	0	0	0	0.7	0.4	-1	snag	4	0.8	complete	FALSE	2022-07-27	NA	near woodpecker sculpture tree, broken off very near base	NA
+df.026	47.559058	-122.250842	31	342	0	1	2	0.3	0.6	-1	uproot	0	0.3	complete	FALSE	2022-07-28	NA	not far east from the woodpecker sculpture hemlock	Himalayan blackberry needs removing
+df.028	47.558593	-122.2507669	58	6	0	1	7	0.7	0.9	-1	snag	35	0.1	complete	FALSE	2022-08-01	NA	barber chair/lots of burn/several different fungi	invasive blackberry needs removal
+df.029	47.55908	-122.25012	41	66	0	3	5	0.7	0.7	-1	roots	0	0.7	complete	FALSE	2022-08-01	NA	in sqebeqsed (upper) hemlock graveyard	lots of black on bark which is not burn. 4 larger hemlocks on upnill (west) section
+df.030	47.559278	-122.249986	48	24	1	0	2	0.7	0.8	-1	stump	2	0.3	complete	FALSE	2022-08-01	NA	fell across trail, sqebeqsed trail north, sawed out separate section with 2 big hemlocks	NA
+df.031	47.559462	-122.249671	52	80	0	0	0	2	0	-1	snag	6	0.8	complete	FALSE	2022-08-25	NA	ancient stump, mostly decayed log, 100 ft east downslope from sqebeqsed	with photo
+df.043	47.559688	-122.249834	58	105	0	2	3	0.6	0.7	-1	snag	8	0.2	complete	FALSE	2022-08-25	NA	steep downhill east of sqebeqsed	NA
+df.044	47.559692	-122.249824	38	35	0	0	2	0.8	0.4	-1	uproot	0	0.2	complete	FALSE	2022-08-25	NA	steep downhill from sqebeqsed	strong collapse only at top, lower 2/3 of tree is daylighted
+df.045	47.559802	-122.249786	24	50	0	3	0	0.5	0.3	-1	uproot	0	0.1	complete	FALSE	2022-08-10	NA	another steep downhill from sqebeqsed	fell on top of df.046, but possibly on same day
+df.046	47.559828	-122.250427	36	56	0	1	0	2.5	1	-1	uproot	0	0.5	complete	FALSE	2022-08-10	NA	one of 2 similarly sized logs upslope west from sqebeqsed	difficult to assess.  bark actually 1? not 0?  possibly two stems from close to bottom
+df.047	47.559838	-122.250437	36	353	0	0	0	2.5	0	-1	roots	0	0.2	complete	FALSE	2022-08-10	NA	one of 2 similarly sized logs upslope west from sqebeqsed, 46, 47	difficult to assess.
+df.050	47.560655	-122.250536	72	75	2	5	20	0	1	2010	snag	30	0	complete	TRUE	2022-08-10	paul shannon report	bench tree, recent fall east across trail, w/in 10 years, huge tree.	2010 - 2014?
+df.101	47.554323	-122.250226	47	33	4	5	6	0	1	2006	uproot	0	0.3	complete	TRUE	2022-08-03	cma report	grafitti removal hanukkah tree, southernmost landmark tree	early paint removed, hacked up.  crossed trail, fell west to east
+df.103	47.554918	-122.251431	35	355	4	7	9	0.1	1	2006	uproot	0	0	complete	TRUE	2022-08-03	cma report	fenced tree at intersection of andrew's bay and woodpecker trails	fenced off to discourage climbing, top is north across the trail
+df.108	47.556548	-122.252704	26	130	1	4	5	0.2	0.9	2008	roots	0	0.1	complete	TRUE	2022-08-03	cma report	adjacent to a hemlock, 200 feet north along the erratic trail	at top of first rise on the erratic trail heading north from woodpecker trail
+df.110	47.55443	-122.249816	37	323	0	11	0	0.3	0.7	2002	uproot	0	0.1	complete	TRUE	2022-08-03	inexact cma report	uproot east of sqebeqsed trail, fell in last 20 years,	top decay is heavy, top 50' far along towards oval
+df.111	47.55495	-122.250359	44	30	0	8	0	0.1	1	2006	snag	30	0	complete	TRUE	2022-08-03	cma report	west side of sqebeqsed, 100 feet from junction with andrews bay trail	surrounded by lots of maples with moss
+df.112	47.555437	-122.252991	70	136	0	0	7	0	1	2015	snag	14	0.2	complete	TRUE	2022-08-03	inexact cma report	huge tree, cored during research prep, recent fall, barber chair	cma observed north-facing vertical crack develop over time
+df.113	47.555922	-122.253216	24	355	1	4	0	0.2	1	2006	uproot	0	0.1	complete	TRUE	2022-08-03	cma report	2006, woodpecker trail, across from Tim's sword ferns.	NA
+df.116	47.55913	-122.250886	33	150	0	0	0	1	0.2	1935	logging	3	1	complete	TRUE	2022-07-28	inferred from logging history	stump with full log, presumed to be mid 1930's, rare old reference tree	3 mature red huckleberries, ferns.  large cut stump, might be broader than butt of log.  odd that tree was cut, but log not removed.

@@ -1,7 +1,7 @@
 df.030:
-   description: fell across trail, sqebeqsed trail north
+   description: fell across trail, sqebeqsed trail north, sawed out separate section with 2 big hemlocks
    notes:  NA
-   status:  incomplete
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-08-01
    lat:  47.559278
@@ -11,10 +11,10 @@ df.030:
    yearOfDeath.evidence: NA
    failureMode: stump
    failureHeight:  2
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   directionOfFall:  24
+   branches.small: 1
+   branches.large: 0
+   branches.huge: 2
+   bark: 0.8
+   collapse: 0.7
+   epiphyte.overall: 0.3

@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.030	47.559278	-122.249986	48	-1	NA	stump	2	-1	-1	-1	-1	-1	-1	-1	fell across trail, sqebeqsed trail north	NA	incomplete	FALSE	2022-08-01
+df.030	47.559278	-122.249986	48	-1	NA	stump	2	24	1	0	2	0.8	0.7	0.3	fell across trail, sqebeqsed trail north, sawed out separate section with 2 big hemlocks	NA	complete	FALSE	2022-08-01

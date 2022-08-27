@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.011	47.555232	-122.250506	25	-1	NA	NA	-1	-1	-1	-1	-1	-1	-1	-1	NA	NA	incomplete	FALSE	2022-07-19
+df.011	47.555232	-122.250506	36	-1	NA	snag	30	264	0	0	0	0.5	0.7	0.3	massive barber chair 40 ft east of trail	NA	complete	FALSE	2022-07-19

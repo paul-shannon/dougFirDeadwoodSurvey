@@ -1,20 +1,20 @@
 df.047:
-   description: 3 similarly sized logs upslope west from sqebeqsed, 46-48
-   notes:  difficult to assess
-   status:  incomplete
+   description: one of 2 similarly sized logs upslope west from sqebeqsed, 46, 47
+   notes:  difficult to assess.  
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-08-10
-   lat:  47.559828
-   long: 122.250427
+   lat:  47.559838
+   long: 122.250437
    dbh:  36
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
+   failureMode: roots
+   failureHeight:  0
+   directionOfFall:  353
    branches.small: 0
    branches.large: 0
    branches.huge: 0
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   bark: 0
+   collapse: 2.5
+   epiphyte.overall: 0.2

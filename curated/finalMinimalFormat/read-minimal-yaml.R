@@ -9,11 +9,11 @@ if(interactive()){
   }else{
       args <- commandArgs(trailingOnly=TRUE)
       if(length(args) != 1)
-         stop("usage Rscript readYaml.R df-xxx")
+         stop("usage Rscript read-minimal-yaml.R df-xxx")
       base.name <- args[1]
       }
 
-if(grepl(".yaml", base.name, fixed=TRUE))
+if(grepl("\\.yaml$", base.name))
     base.name <- sub(".yaml", "", base.name, fixed=TRUE)
 
 f <- sprintf("%s.yaml", base.name)
@@ -63,7 +63,7 @@ valid <- function(id, el)
 
    status <- el[[ "status"]]
    checkTrue(is.character(status))
-   checkTrue(status %in% c("incomplete", "complete"))
+   checkTrue(status %in% c("incomplete", "complete", "ignore"))
 
    datedReferenceTree <- el[[ "datedReferenceTree"]]
    checkTrue(datedReferenceTree %in% c("TRUE", "FALSE"))
@@ -109,7 +109,7 @@ valid <- function(id, el)
    checkTrue(is.numeric(bark) & bark == -1 | (bark >= 0 & bark <= 1))
 
    collapse <- el[["collapse"]]
-   checkTrue(is.numeric(collapse) & (collapse == -1 | (collapse >= 0 & collapse <= 1)))
+   checkTrue(is.numeric(collapse) & (collapse == -1 | (collapse >= 0 & collapse <= 3)))
 
    epiphyte.overall <- el[["epiphyte.overall"]]
    checkTrue(is.numeric(epiphyte.overall) &

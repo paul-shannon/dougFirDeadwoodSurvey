@@ -1,3 +1,4 @@
+# TBD: ground.contact
 df.103:
    description:  fenced tree at intersection of andrew's bay and woodpecker trails
    notes:  fenced off to discourage climbing
@@ -15,7 +16,7 @@ df.103:
    branches.small:  4
    branches.large:  7
    branches.huge:   5
-   ground.contact:  TBD
+   ground.contact:  -1
    ground.contact.notes: no sign of sag, 20" of air at east edge of trail where section was removed
    sag:             0.1
    bark: 1.0

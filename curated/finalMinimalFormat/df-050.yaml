@@ -1,20 +1,20 @@
 df.050:
-   description: recent fall east across trail, w/in 10 years, huge tree
+   description: bench tree, recent fall east across trail, w/in 10 years, huge tree.
    notes:  2010 - 2014?
-   status:  incomplete
-   datedReferenceTree: FALSE
+   status:  complete
+   datedReferenceTree: TRUE
    date: 2022-08-10
-   lat:  47.559550
-   long: 122.250427
+   lat:  47.560655
+   long: 122.250536
    dbh:  72
    yearOfDeath: 2010
    yearOfDeath.evidence: paul shannon report
    failureMode: snag
    failureHeight:  30
-   directionOfFall:  -1
+   directionOfFall:  75
    branches.small: 2
    branches.large: 5
    branches.huge: 20
    bark: 1.0
-   collapse: 0
-   epiphyte.overall: 0
+   collapse: 0.0
+   epiphyte.overall: 0.0

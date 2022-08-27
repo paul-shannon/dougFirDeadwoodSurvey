@@ -1,6 +1,7 @@
+# TBD: ground.contact mid.decay bottom.cross.section top.cross.section
 df.108:
    description:  adjacent to a hemlock, 200 feet north along the erratic trail
-   notes:   need a better description
+   notes:   at top of first rise on the erratic trail heading north from woodpecker trail
    status:  active
    datedReferenceTree:  true
    date: 2022-08-03
@@ -15,19 +16,19 @@ df.108:
    branches.small:  1
    branches.large:  4
    branches.huge:   5
-   ground.contact:  TBD
+   ground.contact:  -1
    ground.contact.notes: 
    sag:             0.2
    bark:            0.9
    bottom.decay:    0.3
    bottom.decay.notes:  NA
-   mid.decay:       TBD
+   mid.decay:       
    mid.decay.notes:  NA   
    top.decay:       0.5
    top.decay.length: 10
    top.decay.notes:  NA
-   bottom.cross.section: TBD
-   top.cross.section: TBD
+   bottom.cross.section: NA
+   top.cross.section: NA
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1

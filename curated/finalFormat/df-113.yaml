@@ -1,3 +1,4 @@
+# TBD: ground.contact, bottom.decay, bottom.cross.section, top.cross.section, epiphyte.species
 df.113:
    description:  2006, woodpecker trail, across from Tim's sword ferns.
    notes:  NA
@@ -15,26 +16,26 @@ df.113:
    branches.small:  1
    branches.large:  4
    branches.huge:   0
-   ground.contact:  TBD
+   ground.contact:  1.0
    ground.contact.notes: 
    sag:             0.2
    bark:            1.0
-   bottom.decay:    TBD
+   bottom.decay:    NA
    bottom.decay.notes:  NA
    mid.decay:       0.4
    mid.decay.notes:  NA   
    top.decay:       0.7
    top.decay.length: 10
    top.decay.notes:  ov
-   bottom.cross.section: TBD
-   top.cross.section: TBD
+   bottom.cross.section: round
+   top.cross.section: round
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1
    epiphytes.meter.2:
       moss: -1
       leafCoverage: -1
-   epiphyte.species: TBD
+   epiphyte.species: NA
    epiphytes.overall.moss: 0.9
    epiphyte.overall:  0.1
    epiphyte.overall.notes: 

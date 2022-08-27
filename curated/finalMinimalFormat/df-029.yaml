@@ -1,7 +1,7 @@
 df.029:
    description: in sqebeqsed (upper) hemlock graveyard
-   notes: lots of black on bark which is not burn
-   status:  incomplete
+   notes: lots of black on bark which is not burn. 4 larger hemlocks on upnill (west) section
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-08-01
    lat:  47.559080
@@ -9,12 +9,12 @@ df.029:
    dbh:  41
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   failureMode: roots
+   failureHeight:  0
+   directionOfFall: 66
+   branches.small: 0
+   branches.large: 3
+   branches.huge: 5
+   bark: 0.7
+   collapse: 0.7
+   epiphyte.overall: 0.7

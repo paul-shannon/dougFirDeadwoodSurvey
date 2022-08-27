@@ -1,7 +1,7 @@
 df.018:
    description: reported by gail and tim, dec 2018
    notes:  exemplary newly fallen tree
-   status:  incomplete
+   status:  complete
    datedReferenceTree: TRUE
    date: 2022-07-26
    lat: 47.556937
@@ -11,10 +11,10 @@ df.018:
    yearOfDeath.evidence: gail johnson report
    failureMode: snag
    failureHeight:  17
-   directionOfFall:  -1
+   directionOfFall:  55
    branches.small: 1
    branches.large: 11
    branches.huge: 1
-   bark: 1
-   collapse: 0
+   bark: 1.0
+   collapse: 0.0
    epiphyte.overall: 0

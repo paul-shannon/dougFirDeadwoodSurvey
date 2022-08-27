@@ -1,7 +1,7 @@
 df.020:
    description: uproot facing roughly north, 60' west of sqebeqsed tree, midway towards hatchery trail
    notes:  the Leila tree
-   status:  incomplete
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-07-26
    lat: 47.554582
@@ -12,9 +12,9 @@ df.020:
    failureMode:   roots
    failureHeight: 0
    directionOfFall:  49
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   branches.small: 0
+   branches.large: 8
+   branches.huge: 2
+   bark: 0.4
+   collapse: 0.2
+   epiphyte.overall: 0.3

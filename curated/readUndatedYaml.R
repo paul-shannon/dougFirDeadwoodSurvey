@@ -1,0 +1,17 @@
+library(yaml)
+options(digits=9)
+f <- "logs.yaml"
+file.exists(f)
+x <- yaml.load(readLines(f, n=-1))
+length(x)
+head(names(x))
+lat <- as.numeric(unlist(lapply(x, function(el) el$lat)))
+long <- as.numeric(unlist(lapply(x, function(el) el$long)))
+tbl <- data.frame(id=names(x), lat=lat, long=long)
+tbl$long <- -1 * abs(tbl$long)
+write.table(tbl, file="logsUndated.tsv", sep="\t", quote=FALSE, row.names=FALSE)
+
+lapply(x, function(el) el$lat)
+lapply(x, function(el) el$long)
+lapply(x, function(el) el$id)
+names(x[[1]])

@@ -1,3 +1,4 @@
+# TBD: top.cross.section
 df.111:
    description:  west side of sqebeqsed, 100 feet from junction with andrews bay trail
    notes:   surrounded by lots of maples with moss
@@ -27,7 +28,7 @@ df.111:
    top.decay.length: 10
    top.decay.notes:  NA
    bottom.cross.section: round
-   top.cross.section: TBD
+   top.cross.section: NA
    epiphytes.meter.1:
       moss: -1
       leafCoverage: -1

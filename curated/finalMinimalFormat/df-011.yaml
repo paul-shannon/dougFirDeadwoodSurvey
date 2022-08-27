@@ -1,20 +1,20 @@
 df.011:
-   description: NA
+   description: massive barber chair 40 ft east of trail
    notes:  NA
-   status:  incomplete
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-07-19
    lat:   47.555232
    long: 122.250506
-   dbh: 25
+   dbh: 36
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   failureMode: snag
+   failureHeight:  30
+   directionOfFall:  264
+   branches.small: 0
+   branches.large: 0
+   branches.huge: 0
+   bark: 0.5
+   collapse: 0.7
+   epiphyte.overall: 0.3

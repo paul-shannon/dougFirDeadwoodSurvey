@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.025	47.558855	-122.250952	28	-1	NA	NA	-1	-1	-1	-1	-1	-1	-1	-1	near woodpecker sculpture tree, broken off very near base	NA	incomplete	FALSE	2022-07-27
+df.025	47.558855	-122.250952	28	-1	NA	snag	4	310	0	0	0	0.4	0.7	0.8	near woodpecker sculpture tree, broken off very near base	NA	complete	FALSE	2022-07-27

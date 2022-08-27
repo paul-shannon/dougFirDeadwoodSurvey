@@ -1,7 +1,7 @@
 df.045:
    description: another steep downhill from sqebeqsed
-   notes:  NA
-   status:  incomplete
+   notes:  fell on top of df.046, but possibly on same day
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-08-10
    lat:  47.559802
@@ -9,12 +9,12 @@ df.045:
    dbh:  24
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
+   failureMode: uproot
+   failureHeight:  0
+   directionOfFall:  50
    branches.small: 0
    branches.large: 3
    branches.huge: 0
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   bark: 0.3
+   collapse: 0.5
+   epiphyte.overall: 0.1

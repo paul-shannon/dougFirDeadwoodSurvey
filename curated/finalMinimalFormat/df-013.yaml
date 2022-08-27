@@ -1,20 +1,20 @@
 df.013:
-   description: NA
+   description: nearly barkless, long perfect sag at top of Hatchery Hollow
    notes:  NA
-   status:  incomplete
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-07-19
-   lat:  47.555663
-   long: 122.2503771
-   dbh: 25
+   lat:  47.555395
+   long: 122.250269
+   dbh: 28
    yearOfDeath: -1
    yearOfDeath.evidence: NA
-   failureMode: NA
-   failureHeight:  -1
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   failureMode: uproot
+   failureHeight:  0
+   directionOfFall:  4
+   branches.small: 0
+   branches.large: 4
+   branches.huge: 0
+   bark: 0.05
+   collapse: 0.6
+   epiphyte.overall: 0

@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.010	47.555185	-122.2505332	62	-1	NA	NA	-1	-1	-1	-1	-1	-1	-1	-1	NA	NA	incomplete	FALSE	2022-07-19
+df.010	47.555185	-122.2505332	62	-1	NA	snag	6	220	0	0	0	0.3	0.6	0.9	beautiful brown/red cubical rot stump, rotten log to the west, many old epiphytes	NA	complete	FALSE	2022-07-19

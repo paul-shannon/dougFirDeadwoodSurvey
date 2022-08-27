@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.043	47.55964	-122.249679	58	-1	NA	snag	8	-1	0	2	3	0.9	-1	-1	steep downhill east of sqebeqsed	NA	incomplete	FALSE	2022-08-10
+df.043	47.559688	-122.249834	58	-1	NA	snag	8	105	0	2	3	0.7	0.6	0.2	steep downhill east of sqebeqsed	NA	complete	FALSE	2022-08-25

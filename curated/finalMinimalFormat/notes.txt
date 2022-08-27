@@ -1,0 +1,2 @@
+bash> for f in df*.yaml; do echo $f; Rscript read-minimal-yaml.R $f;  done
+R> source("combine.R")

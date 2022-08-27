@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.013	47.555663	-122.2503771	25	-1	NA	NA	-1	-1	-1	-1	-1	-1	-1	-1	NA	NA	incomplete	FALSE	2022-07-19
+df.013	47.555395	-122.250269	28	-1	NA	uproot	0	4	0	4	0	0.05	0.6	0	nearly barkless, long perfect sag at top of Hatchery Hollow	NA	complete	FALSE	2022-07-19

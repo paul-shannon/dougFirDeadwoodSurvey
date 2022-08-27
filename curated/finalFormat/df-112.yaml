@@ -1,3 +1,4 @@
+# TBD: bottom.decay and epiphyte.overall ground.contact
 df.112:
    description:  huge tree, cored during research prep, recent fall, barber chair
    notes:   cma observed north-facing vertical crack develop over time
@@ -15,11 +16,11 @@ df.112:
    branches.small:  0
    branches.large:  0
    branches.huge:   7
-   ground.contact:  
+   ground.contact:  -1
    ground.contact.notes: 
    sag:             0.0
    bark:            1.0
-   bottom.decay:    TBD
+   bottom.decay:    0.0
    bottom.decay.notes:  NA
    mid.decay:       0
    mid.decay.notes:  NA   
@@ -36,5 +37,5 @@ df.112:
       leafCoverage: -1
    epiphyte.species: NA
    epiphytes.overall.moss: 0.2
-   epiphyte.overall:  TBD
+   epiphyte.overall:  0.31
    epiphyte.overall.notes: ruur, tsme, acma

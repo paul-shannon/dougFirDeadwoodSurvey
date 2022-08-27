@@ -1,2 +1,2 @@
 id	lat	long	dbh	yearOfDeath	yearOfDeath.evidence	failureMode	failureHeight	directionOfFall	branches.small	branches.large	branches.huge	bark	collapse	epiphyte.overall	description	notes	status	datedReferenceTree	date
-df.115	47.559312	-122.251211	42	2018	cma report	roots	0	265	0	0	0	0.2	0	0	plague (covid) tree, just east of huckleberry tree, south of hemlock graveyard	useless for dating; top of log all cut up, no visible attributes, bark shed	complete	FALSE	2022-08-03
+df.115	47.559312	-122.251211	42	2018	cma report	roots	0	265	0	0	0	0.2	0	0	plague (covid) tree, just east of huckleberry tree, south of hemlock graveyard	useless for dating; top of log all cut up, no visible attributes, bark shed	ignore	FALSE	2022-08-03

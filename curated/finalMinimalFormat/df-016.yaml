@@ -1,7 +1,7 @@
 df.016:
-   description: NA
+   description: west side of trail
    notes:  NA
-   status:  incomplete
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-07-19
    lat:  47.556812
@@ -11,10 +11,10 @@ df.016:
    yearOfDeath.evidence: NA
    failureMode: uproot
    failureHeight:  0
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   directionOfFall:  346
+   branches.small: 0
+   branches.large: 0
+   branches.huge: 0
+   bark: 1.0
+   collapse: 0.1
+   epiphyte.overall: 0

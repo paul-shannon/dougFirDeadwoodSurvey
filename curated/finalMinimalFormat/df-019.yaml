@@ -1,7 +1,7 @@
 df.019:
-   description:  interior of windfall trail, the hollow log tree
-   notes: NA
-   status:  incomplete
+   description:  interior of windfall trail, the big hollow log tree
+   notes: popular walking-on trail, otherwise might be more epiphytes
+   status:  complete
    datedReferenceTree: FALSE
    date: 2022-07-26
    lat: 47.557247
@@ -11,10 +11,10 @@ df.019:
    yearOfDeath.evidence: NA
    failureMode: roots
    failureHeight:  0
-   directionOfFall:  -1
-   branches.small: -1
-   branches.large: -1
-   branches.huge: -1
-   bark: -1
-   collapse: -1
-   epiphyte.overall: -1
+   directionOfFall:  12
+   branches.small: 0
+   branches.large: 0
+   branches.huge: 0
+   bark: 0.9
+   collapse: 0.3
+   epiphyte.overall: 0.3

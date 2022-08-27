@@ -1,3 +1,4 @@
+# TBD: top.cross.section
 df.106:
    description:  giant, barber chair, burned bark, fell parallel to trail pointing east
    notes:  peggy claimed 1993 inaugural day storm for this tree, cma 2006, same as df.017
@@ -27,7 +28,7 @@ df.106:
    top.decay.length: 10
    top.decay.notes:  broke at fall, sped up the decay
    bottom.cross.section: round
-   top.cross.section: TBD
+   top.cross.section: -1
    epiphytes.meter.1:
       moss: 0.65
       leafCoverage: 0.45
